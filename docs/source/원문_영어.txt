@@ -1,0 +1,1772 @@
+===== PAGE 1 =====
+A romantic penalty? Female entrepreneurship and relationship 
+initiation in online dating
+Di Tong a,*, Xiumei Li b, Haemin Dennis Park c,1
+a Nottingham University Business School China, Nottingham University Ningbo China, China
+b Asper School of Business, University of Manitoba, Canada
+c Naveen Jindal School of Management, University of Texas at Dallas, United States of America
+A R T I C L E  I N F O
+Keywords:
+Female entrepreneurship
+Relationship initiation
+Romantic prospects
+Romantic penalty
+Marriage market
+A B S T R A C T
+Female entrepreneurship is increasingly common, yet we know little about how it affects women's 
+romantic prospects, a crucial outcome with implications for family formation. We propose that 
+female entrepreneurs, particularly those pursuing growth-oriented ventures, face diminished 
+romantic prospects, potentially shaped by gendered trait inferences and concerns about time 
+demand. Using two field experiments, supplemented by a survey experiment, we provide causal 
+evidence that female entrepreneurs are on average penalized in romantic relationship initiation, 
+but are preferred by male entrepreneurs. Further analysis offers suggestive evidence on mecha­
+nisms underlying this romantic penalty. By examining the impact of female entrepreneurship on 
+romantic prospects, our study extends the family embeddedness perspective in entrepreneurship 
+research. It also contributes to female entrepreneurship research by documenting a romantic 
+penalty as a previously underexplored challenge.
+Executive summary
+An increasing number of women choose to become entrepreneurs, launching their own businesses instead of working for others. 
+Prior research has examined how this choice affects women's personal lives, particularly within the family domain, but has pre­
+dominantly focused on married women. Far less attention has been paid to how entrepreneurship shapes family outcomes for single 
+women. For them, a key family domain outcome is family formation, for which romantic relationship initiation is a critical preceding 
+step. Yet, we know little about how single female entrepreneurs, who disproportionately pursue growth rather than lifestyle-oriented 
+ventures, are evaluated by prospective partners at this early stage. Examining this question allows us to focus on early stages preceding 
+family formation, thereby offering a life course perspective on how an entrepreneurial identity may shape family-related outcomes.
+We expect that female entrepreneurs will be penalized in romantic relationship initiation, exhibiting diminished romantic pros­
+pects. Prior research suggests that two related considerations may shape this penalty. First, entrepreneurship remains a masculine 
+occupation. As such, female entrepreneurs may violate gender role expectations, leading them to be perceived as lacking feminine 
+traits that are viewed as desirable in romantic relationships. Second, entrepreneurship is often perceived as a time-demanding 
+occupation, especially for unmarried women running growth-oriented ventures. Concerns about time demand may dissuade men 
+* Corresponding author.
+E-mail addresses: Di.TONG@nottingham.edu.cn (D. Tong), xiumei.li@umanitoba.ca (X. Li), parkhd@utdallas.edu (H.D. Park). 
+1 Given their role as Field Editor, Haemin Dennis Park had no involvement in the peer review of this article and has no access to information 
+regarding its peer-review. Full responsibility for the editorial process for this article was delegated to another journal editor.
+Contents lists available at ScienceDirect
+Journal of Business Venturing
+journal homepage: www.elsevier.com/locate/jbusvent
+https://doi.org/10.1016/j.jbusvent.2026.106608
+Received 24 March 2025; Received in revised form 5 May 2026; Accepted 6 May 2026  
+Journal of Business Venturing 41 (2026) 106608 
+Available online 24 May 2026 
+0883-9026/© 2026 The Author(s). 
+Published by Elsevier Inc. 
+This is an open access article under the CC BY license 
+( http://creativecommons.org/licenses/by/4.0/ ). 
+
+===== PAGE 2 =====
+from engaging in romantic relationships with them, as these women may be perceived as unwilling or unable to shoulder family 
+responsibilities normally expected of women. Together, these considerations may reduce the likelihood that female entrepreneurs 
+enter romantic relationships with men, resulting in a romantic penalty at the initiation stage.
+To test these ideas, we conducted two field experiments on a large online dating platform in China. In the first experiment, we 
+created fictitious profiles of female and male entrepreneurs and managers and measured romantic prospects based on responses to 
+initial contact messages. We found that female entrepreneurs were significantly less likely to receive responses than comparable female 
+managers, whereas no such penalty was observed for men. In the second experiment, we compared a growth-oriented startup founder 
+and a lifestyle-oriented florist with two feminine occupations (nurse and teacher). We observed a romantic penalty for the startup 
+founder but not for the florist. A supplementary survey experiment provided suggestive evidence that trait-based perceptions, 
+particularly lower perceived communality and family orientation, were associated with the observed penalty. Evidence related to time 
+demand concerns was less conclusive.
+Our study identifies an underexplored challenge that women may face when entering and operating in entrepreneurship. Unlike 
+prior research that has mostly focused on disadvantages in the business domain, this study highlights a romantic penalty as a pre­
+viously overlooked challenge within the family domain. In doing so, we address a gap in understanding how entrepreneurship shapes 
+outcomes for single women at stages preceding family formation. Although we do not directly examine entrepreneurial entry or 
+performance, our findings suggest that anticipated penalties in the family domain may influence women's entrepreneurial trajectories. 
+In addition, our results offer a potential explanation for earlier observations that entrepreneur husbands are more likely to have 
+entrepreneur wives, suggesting that attraction between entrepreneurs may play a role.
+1. Introduction
+In the last few decades, the rate of female entrepreneurship has increased steadily in both developing and developed countries (Hil 
+et al., 2024). Although scholars have long noted that entrepreneurs are embedded in family systems (Aldrich and Cliff, 2003; Hughes 
+and Jennings, 2020), the link between entrepreneurial processes and family-level factors is often considered particularly important in 
+female entrepreneurship (Brush et al., 2009; Jennings and Brush, 2013). Scholars have examined how female entrepreneurs cope with 
+family demands (e.g., Jennings and McDougald, 2007; Shelton, 2006), and how entrepreneurial activities affect their family outcomes 
+(e.g., Jennings et al., 2013; Li and Tong, 2023).
+Prior studies mostly focus on family outcomes for female entrepreneurs who are married and have children, but have paid scant 
+attention to single female entrepreneurs and how entrepreneurship may shape earlier stages in the pathway to family formation. This 
+oversight is unfortunate. The original formulation of the family embeddedness perspective by Aldrich and Cliff (2003) links entre­
+preneurial activity not only to family-level factors, but specifically to life course transitions, such as marriage and divorce (Aldrich 
+et al., 2021; Randerson et al., 2015). A richer understanding of this perspective thus requires exploring how entrepreneurial activity 
+may shape processes that precede family formation.
+In contemporary societies, family formation is typically preceded by a dating process, in which romantic partners learn about and 
+adapt to each other as potential long-term partners (Afifi and Lucas, 2008; Oppenheimer, 1988). Because this learning and adaptation 
+process is costly (Becker, 1973), individuals often make careful choices deciding with whom to initiate a romantic relationship, 
+especially one that intends to lead to long-term commitments like marriage. In this paper, the likelihood of romantic relationship 
+initiation as an early-stage outcome is conceptualized as romantic prospects. We consider whether being an entrepreneur diminishes a 
+woman's romantic prospects.
+Existing research highlights two related perspectives relevant to this question. First, entrepreneurial research on gender stereo­
+typing notes that people frequently associate entrepreneurship with masculinity (Ahl, 2006; Jennings and Tonoyan, 2022), which 
+contradicts the feminine traits expected of women. This incompatibility shapes perceptions of female entrepreneurs as less competent 
+in the business domain (e.g., Guzman and Kacperczyk, 2019; Kanze et al., 2018). In the family domain, we suggest that this in­
+compatibility may also lead female entrepreneurs to be inferred as lacking traits desirable in romantic relationships. A second 
+perspective relates to time demand concerns. Social norms in many societies are such that men are expected to specialize in market 
+work, whereas women are expected to specialize in housework (e.g., Bianchi et al., 2012; Bittman et al., 2003; He and Noussair, 2023). 
+Because entrepreneurship offers increased returns to longer work hours (Goldin, 2014), female entrepreneurs may be perceived as less 
+willing or able to commit to family responsibilities, thus violating gendered expectations of intra-household division of labor. 
+Together, trait inference and time demand perspectives suggest that female entrepreneurs may face reduced romantic prospects.
+Empirically demonstrating the causal impact of female entrepreneurship on romantic prospects is challenging using observational 
+data. To address this challenge, following prior research (e.g., Egebark et al., 2021; Ong and Wang, 2015), we conducted field ex­
+periments on one of the largest dating websites in China. We found that female, but not male, entrepreneurs were penalized in 
+romantic relationship initiation, although mutual attraction between male and female entrepreneurs was also observed. Through a 
+survey experiment, we explored the underlying mechanisms. While evidence is only suggestive, we find an explanation based on trait 
+inference to be more compelling, whereas evidence related to time demand concerns is more ambiguous.
+This study makes three contributions. First, it broadens entrepreneurship research grounded in the family embeddedness 
+perspective. Because this perspective is rooted in a life course model marked by key transition events (e.g., marriage, divorce), a fuller 
+understanding requires examining different life stages of entrepreneurs (Aldrich et al., 2021). By focusing on the romantic prospects of 
+unmarried female entrepreneurs, we extend this perspective to an understudied stage—romantic relationship initiation—preceding 
+family formation. Second, this study advances understanding of the origins of entrepreneurial families. Prior research documents the 
+disproportionate prevalence of entrepreneur households, in which both the husband and wife are self-employed (Parker, 2008). Such 
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+2 
+
+===== PAGE 3 =====
+patterns may arise from selection or spillover effects. Our empirical design provides suggestive evidence consistent with a selection- 
+based account.
+Finally, this study contributes to female entrepreneurship research. While prior work documents disadvantages women face in the 
+business domain (e.g., Guzman and Kacperczyk, 2019; Kanze et al., 2018), entrepreneurial decisions may depend not only on 
+perceived ease in the business domain (Tonoyan et al., 2020) but also on potential costs in the personal domain (McClintock, 2020). 
+We extend this literature by documenting diminished romantic prospects as an underexplored family domain challenge associated 
+with female entrepreneurship.
+2. Theory and hypotheses
+2.1. Female entrepreneurship and its link to the family domain
+The family embeddedness perspective of entrepreneurship has long emphasized the inextricable connection between entrepre­
+neurial activity and family processes (Aldrich and Cliff, 2003). Prior research highlights the bidirectional nature of this connection: 
+entrepreneurial activity is not only influenced by, but also influences, family-level factors (Aldrich and Cliff, 2003; Jennings et al., 
+2013). Although not gender-specific, this perspective is closely related to and partly owes its origin to female entrepreneurship 
+research (Jennings et al., 2013). Brush and colleagues, for instance, explicitly place “motherhood” at the center of their gender-aware 
+framework of female entrepreneurship (Brush et al., 2009), where motherhood serves as a metaphor for the family context.
+In this vein, extensive research has documented that family-level factors, especially childcare responsibilities, are a key driver of 
+female entrepreneurship (e.g., Carr, 1996; Noseleit, 2014; Semykina, 2018; Th´ebaud, 2015). Meanwhile, scholars have called for more 
+research examining how entrepreneurial activity, in turn, affects family outcomes for women (Jennings et al., 2013). Extant research 
+has shown how female entrepreneurs manage work-family conflict at the business-family interface (e.g., Eddleston and Powell, 2012; 
+Jennings and McDougald, 2007; Parasuraman and Simmers, 2001; Shelton, 2006), as well as how female entrepreneurship affects 
+other aspects of family life, such as time allocation (Jurik, 1998; Loscocco and Bird, 2012) and childcare quality (Li and Tong, 2023; 
+Schindehutte et al., 2003).
+With few exceptions, however, this body of work focuses predominantly on female entrepreneurs who are married and have 
+children. Although this emphasis aligns with the core premise of the family embeddedness perspective, it also narrows our under­
+standing of how entrepreneurial activity intersects with family processes across different life stages. In its original formulation, the 
+family embeddedness perspective adopts a life course approach that explicitly links entrepreneurial activity to key transition events, 
+such as marriage and divorce (Aldrich et al., 2021). A fuller understanding of this perspective therefore requires examining how 
+entrepreneurial identity may shape women's family-related outcomes more broadly, including those that precede family formation.
+Although not all female entrepreneurs are concerned about marriage, qualitative evidence suggests that at least some, particularly 
+in contexts such as China, face pressure to marry (Song and Li, 2023). More generally, research shows that women often consider 
+anticipated family outcomes when making career choices (Bursztyn et al., 2020; Zhang and Zou, 2023). Taken together, these insights 
+highlight the importance of examining how female entrepreneurship may shape women's romantic outcomes prior to family 
+formation.
+2.2. Female entrepreneurship and romantic prospects
+In modern societies, marriage is often the end result of a romantic relationship that progresses through several stages (e.g., Ker­
+ckhoff and Davis, 1962; Murstein, 1970; Regan, 2011), the earliest of which is relationship initiation—the decision to pursue a 
+romantic relationship with a potential partner (Afifi and Lucas, 2008; Fisman et al., 2006; Lewis, 2016). This decision is costly because 
+initiating a romantic relationship requires commitment to learning about and adapting to a chosen partner (Afifi and Lucas, 2008; 
+Oppenheimer, 1988). As such, individuals are more likely to initiate a romantic relationship when a partner appears to be a promising 
+long-term candidate. This choice becomes even more deliberate with the rise of online dating platforms (e.g., Lewis, 2016; Sprecher, 
+2009), where individuals must make explicit and immediate choice decisions.
+Rather than examining marriage formation directly, we focus on how female entrepreneurs are evaluated at the stage of romantic 
+relationship initiation. We refer to the likelihood of initiating a romantic relationship as romantic prospects. Because of high infor­
+mation asymmetry prior to relationship initiation, people frequently rely on observable cues to infer candidate quality. Occupation is 
+one such important cue (Oppenheimer, 1988). Entrepreneurship is highly heterogeneous (e.g., Budig, 2006; Kanze et al., 2020; 
+Tonoyan et al., 2010; Tonoyan and Strohmeyer, 2021). In this study, we focus on a career-driven, growth-oriented conception of 
+female entrepreneurship, which is often characteristic of single female entrepreneurs (Patrick et al., 2016) and is particularly relevant 
+in the context of romantic relationship initiation.
+Existing literature points to two related theoretical perspectives through which women's romantic prospects may be affected by 
+their entrepreneur status. These perspectives are not mutually exclusive and may operate simultaneously in shaping early-stage 
+romantic evaluations. One perspective emphasizes gender stereotyping and role incongruity. Entrepreneurship remains a largely 
+masculine occupation: people tend to associate it with agentic traits such as ambitiousness, assertiveness, and confidence (Ahl, 2006). 
+Even when compared to managers, entrepreneurs are still seen as comparatively more masculine (Baron et al., 2001; Raile et al., 2024). 
+Moreover, although the manager role has become gradually associated with more feminine traits over the past few decades (Duehr and 
+Bono, 2006; Powell et al., 2021), this pattern is not observed in entrepreneurship (Raile et al., 2024). The masculine job role conflicts 
+with the female gender role, in which communal traits such as being nurturing and sympathetic are expected (Heilman et al., 1989), 
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+3 
+
+===== PAGE 4 =====
+resulting in role incongruity (Eagly, 1987).
+Role incongruity results in two forms of prejudice (Eagly and Karau, 2002). The first arises when people infer that women lack the 
+traits and skills required to succeed in masculine occupations (Cash et al., 1977; Gupta et al., 2009; Heilman and Stopeck, 1985), a 
+process termed job role violation (Johnson et al., 2014). In the entrepreneurship context, substantial evidence shows that female 
+entrepreneurs face greater difficulty acquiring financial and human resources (e.g., Bigelow et al., 2014; Brooks et al., 2014; Guzman 
+and Kacperczyk, 2019; Jennings and Tonoyan, 2022; Lim and Suh, 2019; Liu et al., 2024; Poczter and Shapsis, 2018; Tonoyan et al., 
+2025). Providing direct experimental evidence, Tonoyan et al. (2025) show that female technology entrepreneurs are perceived by job 
+seekers as less competent and less agentic than otherwise comparable male entrepreneurs.
+The second form concerns women's conformity to the female gender role. This gender role violation may lead men to infer a lack of 
+communal traits normally expected of women (Heilman and Okimoto, 2007), and even to infer the presence of counter-communal 
+traits (Heilman et al., 1989; Heilman et al., 1995). Consistently, women politicians are less preferred by voters when they exhibit 
+masculine qualities (Okimoto and Brescoll, 2010), and female managers are frequently viewed as less likable and less desirable as 
+leaders (Heilman et al., 1995; Heilman and Okimoto, 2007). Similarly, experimental evidence shows that female technology entre­
+preneurs are seen as less warm than their male counterparts by job seekers (Tonoyan et al., 2025). Prior research directly comparing 
+managers and entrepreneurs finds that female entrepreneurs are perceived as less feminine, more decisive, and more assertive than 
+managers (Baron et al., 2001).
+Although prior research shows that gender role violation affects women's professional outcomes, it may also extend to the family 
+domain. To the extent that female entrepreneurs are inferred as lacking communal traits, their romantic prospects may be diminished. 
+Mate choice research shows that both men and women value communal attributes in romantic partners, especially in long-term re­
+lationships (Buss and Barnes, 1986; Kenrick et al., 1990; Regan et al., 2000). This line of reasoning suggests that female entrepreneurs 
+may face greater difficulty at the stage of romantic relationship initiation if they are perceived as lacking traits desirable for long-term 
+partnership.
+In addition, prior research highlights the expectation that women shoulder household chores, especially responsibilities related to 
+child and family care. A prominent explanation for this (expected) intra-household division of labor is based on comparative 
+advantage: men are assumed to be more productive in the labor market, making it rational for women to specialize in housework 
+(Becker, 1973). However, this efficiency-based explanation has been challenged by subsequent research (e.g., Bianchi et al., 2012; 
+Bittman et al., 2003; Hook, 2010; Raley et al., 2012). In particular, social norms play a crucial role in shaping intra-household division 
+of labor. Studies show that people—including women themselves—expect women to handle household chores even in the absence of 
+productivity differences, such as when tasks are merely framed as housework or when gendered norms are made salient (e.g., Badgett 
+and Folbre, 1999; He and Noussair, 2023; Roncolato and Roomets, 2020). Despite some change and variation, these expectations and 
+norms remain persistent over time and across nations (Bianchi et al., 2012).
+These expectations can create challenges for female entrepreneurs. Male-dominated occupations—entrepreneurship being a 
+prominent example—are often time demanding, with pay exhibiting increasing marginal returns to hours worked (Goldin, 2014). This 
+pay-work hour profile may discourage women from selecting into such occupations, reinforcing their association with masculinity. At 
+the same time, for women who enter these occupations, such as female entrepreneurs, concerns about work time demand and limited 
+availability for family responsibilities may arise. To the extent that such time demand concerns arise, men may be reluctant to initiate 
+romantic relationships with female entrepreneurs who appear less available for family responsibilities.
+We do not expect male entrepreneurs to face diminished romantic prospects. First, because male entrepreneurs occupy a gender- 
+typical role, they are unlikely to experience gender role violation or negative trait inferences. Second, although male entrepreneurs 
+may also raise time demand concerns, prevailing social norms make such concerns less likely to incur substantial penalties (Bianchi 
+et al., 2012; He and Noussair, 2023; Roncolato and Roomets, 2020). Taken together, these perspectives suggest that female, but not 
+male, entrepreneurs may be evaluated less favorably in romantic relationship initiation contexts. 
+Hypothesis 1.
+(H1). Compared with women in gender-typical occupations, female entrepreneurs will face reduced romantic 
+prospects.
+While we have proposed that female entrepreneurs are, on average, penalized in seeking a romantic relationship, the arguments 
+developed above suggest that the extent of this penalty depends on men's perceptions when evaluating potential partners. Here, we 
+consider a particular source of heterogeneity in these perceptions: men's own occupation, specifically whether they are entrepreneurs 
+themselves.
+Homophily is a fundamental feature in social interactions (McPherson et al., 2001). It is a pattern in which people prefer to 
+associate with similar others and is observed across numerous settings (e.g., Bengtsson and Hsu, 2015; Freeman and Huang, 2015; 
+Gompers et al., 2016). In romantic relationships, homophily manifests in homogamy: people tend to prefer partners with similar 
+education levels, ethnic or cultural background, and socio-economic status (e.g., Kalmijn, 1994, 1998). Homophily also leads to 
+occupational homogamy, such that men and women from the same occupation are more likely to be romantically involved (Choi and 
+Qian, 2023; Hayes, 1993).
+Occupational homogamy can be explained by search and matching on socioeconomic and cultural resources (Kalmijn, 1998). 
+Individuals tend to compete for romantic partners with greater socioeconomic resources, defined as resources that generate economic 
+well-being and status. This preference arises because married couples typically pool their resources to maximize household income and 
+status. Due to wage differentials across occupations, this competition results in individuals sorting within their own occupations 
+(Schwartz et al., 2021; Schwartz, 2013).
+Occupational homogamy is further strengthened by the inherent uncertainty in evaluating a romantic partner's socioeconomic 
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+4 
+
+===== PAGE 5 =====
+resources, particularly when assessing long-term potential. This uncertainty is lower for individuals in the same occupation, who have 
+better access to information and greater ability to evaluate each other's future prospects. Because entrepreneurs often exhibit riskier 
+income profiles, uncertainty in evaluating their socioeconomic resources may be especially high, which may further reinforce occu­
+pational homogamy.
+Occupational homogamy also arises because people prefer romantic partners with similar cultural resources, including values and 
+attitudes. Cultural similarity enables individuals to develop a shared lifestyle, resulting in greater social confirmation and affection 
+(Kalmijn, 1994), and is also a prerequisite for relationship initiation (Kalmijn, 1998). Prior research shows that cultural resources are 
+unevenly distributed across occupations (Knafo and Sagiv, 2004; Sagiv et al., 2017), partly because occupational entry screens in­
+dividuals based on cultural fit (Rivera, 2012), and partly because occupational experience shapes values, tastes, and attitudes prevalent 
+in that occupation (Kohn and Schooler, 1969; Kohn, 1989; Mortimer, 1976). As a result, individuals in the same occupation are more 
+likely to exhibit high cultural similarity.
+Entrepreneurs tend to have distinctive values and attitudes, particularly those related to individualism (e.g., Bazzi et al., 2020; 
+Mostaghel et al., 2022). For instance, entrepreneurs tend to value freedom (Fagenson, 1993), self-direction and non-conformity (Holt, 
+1997), and self-reliance (Beugelsdijk and Noorderhaven, 2005) more than comparable managers or the general population. More 
+importantly, the values of (male and female) entrepreneurs differ significantly from those of managers (Fagenson, 1993). Sharing these 
+distinctive cultural resources may promote mutual attraction between female and male entrepreneurs while making cross- 
+occupational matching less likely.
+Overall, occupational homogamy may help offset the romantic penalty faced by female entrepreneurs by increasing their desir­
+ability among male entrepreneurs who share similar occupational backgrounds. 
+Hypothesis 2.
+(H2). The reduction in romantic prospects will be weaker for female entrepreneurs evaluated by male entrepreneurs.
+3. Methods
+3.1. Research design
+Estimating the causal impact of female entrepreneurship on romantic prospects poses significant inference challenges. Women do 
+not enter entrepreneurship randomly. Those with certain personality traits (Baum et al., 2014; Cassar, 2010; Zhao et al., 2010) and 
+specific preferences and attitudes (Carr, 1996) are more likely to self-select into entrepreneurship. These same factors may simulta­
+neously influence how women behave and are perceived in romantic contexts (Parker, 2008). When unaccounted for, such factors may 
+bias estimation results or, in the extreme, render any observed relationship between female entrepreneurship and romantic prospects 
+spurious. Unfortunately, fully controlling these factors is often infeasible.
+Given this empirical challenge, the ideal research design would involve randomly assigning women to entrepreneur and non- 
+entrepreneur status and then observing how they are evaluated in romantic relationship initiation. With this experimental ideal in 
+mind, we conducted two field experiments on one of the largest online dating websites in China.2 Field experiments on online dating 
+platforms are particularly well suited for identifying causal effects in early-stage romantic interactions (e.g., Egebark et al., 2021; 
+Huber and Malhotra, 2017; Lee and Niederle, 2015; Ong, 2016; Ong and Wang, 2015), as online dating has become an increasingly 
+popular venue for initiating romantic relationships (Egebark et al., 2021; Huber and Malhotra, 2017; Qian et al., 2022), including 
+relationships oriented toward long-term partnership.
+We chose this particular website because it is positioned as a serious, long-term relationship-oriented platform, making it more 
+likely to attract individuals seeking long-term commitments. Although individuals interested in casual dating may also appear on the 
+platform, they are less likely to be incentivized to do so, as platforms marketed for casual dating would constitute more attractive 
+alternatives. The website's large user base ensured that we could collect sufficient data. Moreover, its relatively simple registration 
+process made it feasible to implement our experimental manipulations.3 Both field experiments received IRB approval.
+3.1.1. Design for field experiment 1
+In the first field experiment, we seek to establish a baseline causal estimate of the effect of female entrepreneurship on romantic 
+prospects at the stage of relationship initiation. We began by creating a prototype, a fictitious female user profile. Following prior work 
+(Ong, 2016), we designed the profile with above-average demographic and financial characteristics to ensure sufficient interest. 
+Demographically, we used an AI-generated portrait as the profile photo, which was rated by a group of business students to be above 
+average in attractiveness. The profile age was set to 26, two years younger than the average age of first-time marriage for women in 
+China based on 2020 statistics. Height was set at 165 cm, five centimeters above the average height of women aged 25–29, also based 
+on 2020 statistics. For financial status, the website provided five income brackets. We selected the second highest bracket (i.e., 
+2 The website is Shijijiayuan (https://m.jiayuan.com/).
+3 To register, a valid mobile phone number was required. Mobile phone numbers in China are ID-linked and ID-verified. Beyond registration, 
+additional verification options (e.g., ID or facial verification) were available but optional. Our experimental profiles complied with the same 
+registration requirements as ordinary users.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+5 
+
+===== PAGE 6 =====
+20,000–50,000 Yuan per month).4
+To create a control group, we duplicated the profile but changed occupation-related information from entrepreneur to manager. 
+Manager was intentionally chosen as the comparison occupation because it is frequently considered comparable to entrepreneur in 
+prior research (Stewart and Roth, 2001; Tan, 2001), yet entails less gender role violation (Baron et al., 2001) and potentially fewer time 
+demand concerns. Using manager as the comparison group thus allows a stringent test of whether entrepreneur status affects women's 
+romantic prospects.
+Occupation was indicated in two ways. First, users were required to select their occupation type from a predefined list, where 
+“operates own business” signified entrepreneurship and other categories reflected paid employment. Second, each profile included a 
+brief personal bio adapted from real user profiles:
+“Hi, good to meet you on this website! My name is [a fictitious name] and I graduated from a university here in [Shanghai/Xi'an]. After 
+college, I started my career in this city and now I [am an entrepreneur running my own company/work in a local company as a manager]. I am 
+looking for a serious relationship with marriage in mind.”
+Acknowledging heterogeneity among entrepreneurs (e.g., growth-oriented vs. lifestyle-oriented), we focused on female entre­
+preneurs pursuing growth-oriented ventures, in line with our theoretical framework. We therefore used the term “company” in the bio, 
+which in Chinese carries the connotation of a more serious business rather than a lifestyle business. Personal bios were displayed 
+prominently at the top center of the profile page.
+Because online dating tends to occur locally, we created profiles in both Shanghai and Xi'an. Shanghai is a highly global and 
+industrialized city where residents may hold less rigid and conventional gender role expectations (Xiao and Qian, 2020), whereas Xi'an 
+is a large but more traditional inland city. This dual-city setup increases contextual diversity and allows us to examine whether effects 
+differ across socio-cultural contexts.
+To assess whether any observed penalty was gender-specific, we also created fictitious male profiles following the same procedures. 
+This resulted in eight profiles (Entrepreneur/Manager × Shanghai/Xi'an × Female/Male). Across profiles, the same female or male 
+portrait was used to minimize potential differences attributable to appearance. To build the analytical sample, we used the platform's 
+search function to identify users of the opposite sex residing in the same city as each fictitious profile. We then sent a contact message to 
+a subset of these users. The message read:
+“I read your profile information and wish to know more about you. If you are interested, please reply.”
+We sorted search results and contacted users who were most recently active,5 to ensure sent messages were read promptly and to 
+minimize the inclusion of dormant accounts. Between April and December 2022, 200 messages were sent from each of the eight 
+profiles, reaching 1600 unique recipients in total.6 After excluding observations with missing key recipient information (e.g., occu­
+pation), the final sample size was 1408.7
+3.1.2. Design for field experiment 2
+So far, we have presumed an image of female entrepreneurs being highly career-driven and growth-oriented, which is characteristic 
+of many single female entrepreneurs (Patrick et al., 2016), and used managers as a comparison group. However, it is unclear whether 
+the same penalty extends to lifestyle entrepreneurs, and whether the penalty remains when using more feminine occupations as the 
+comparison group. These considerations motivate our second field experiment.
+Specifically, we developed two entrepreneur profiles and two control occupations. One entrepreneur profile was a founder of a 
+technology startup in the cybersecurity industry (startup founder), representing a typically masculine, growth-oriented entrepreneur 
+(Tonoyan et al., 2025).8 In contrast, the other entrepreneur profile was a flower shop owner (florist), an occupation often seen as 
+feminine and more lifestyle-oriented. Unlike growth-oriented entrepreneurs, lifestyle entrepreneurs are primarily motivated by 
+intrinsic goals, such as personal fulfilment, and emphasize work-life integration over wealth maximization (Ivanycheva et al., 2024). 
+They often choose to limit business growth to preserve time for lifestyle activities and maintain compatibility between work and leisure 
+(O'Neill et al., 2022). As a result, lifestyle female entrepreneurs may be perceived as less agentic and as facing more flexible and less 
+intensive work time demands, potentially mitigating perceived role incongruity and time demand concerns, and the associated penalty 
+in romantic relationship initiation. For the two control occupations, we used a nurse and a primary school Chinese teacher, both 
+quintessential feminine occupations (Shinar, 1975; White et al., 1989). Nurses tend to face irregular and long work hours, especially in 
+China (Li et al., 2024), and therefore represent a highly time demanding occupation. Primary school teachers, in contrast, have 
+relatively predictable and reasonable work schedules, with summer and winter vacations.
+Given these occupations, profiles were developed only for females rather than for both genders. First, Field Experiment 1 already 
+4 Please refer to Table A1 in the Online Appendix for more detailed experimental design information, and Table A2 for bivariate difference 
+comparisons between treatment and control groups.
+5 Despite our interest in entrepreneur recipients, we did not intentionally search for them. Their occurrence in the sample was not targeted.
+6 This process was overseen by a team of research assistants, who manually checked to ensure that a given recipient did not receive messages from 
+more than one profile.
+7 We found no statistical differences in response rates or other available characteristics between observations with and without missing infor­
+mation. Regressions without controls using the full sample yielded results nearly identical to those obtained after excluding observations with 
+missing information.
+8 Please refer to Table A3 in the Online Appendix for more detailed experimental design information, and Table A4 for bivariate difference 
+comparisons between treatment and control groups.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+6 
+
+===== PAGE 7 =====
+establishes cross-gender comparisons. Second, including male profiles would require assigning men to highly feminine occupations, 
+which would introduce additional gender role dynamics and complicate interpretation. Moreover, crossing four occupations with both 
+genders would substantially increase logistical and design complexity. We assigned these profiles only to Xi'an (as discussed later). In 
+total, we created four fictitious profiles.
+Apart from these changes, the remaining design elements mirrored those of the first experiment. The same demographic infor­
+mation and portrait were used across all four profiles. Occupations were again disclosed in the personal bio and the drop-down menu. 
+In July and August 2025, our research team sent the same contact message as in the first experiment to male website users in Xi'an. To 
+avoid any recipient receiving more than one message, we sorted male users by their most recent activity date and sent messages in 
+rotation across the four profiles. To maintain consistency with the first experiment, 200 contact messages were sent from each of the 
+four profiles, reaching 800 unique recipients in total. After excluding observations with missing key recipient information (e.g., 
+occupation), the final sample size was 787.9
+3.2. Measures
+Following prior research (e.g., Egebark et al., 2021; Huber and Malhotra, 2017; Lee and Niederle, 2015; Ong, 2016; Ong and Wang, 
+2015), we used whether a recipient replied to the contact message (Response) as our main outcome measure. A reply represents the 
+earliest observable step toward romantic relationship initiation and thus reflects romantic prospects in our context. Messages that were 
+read but not replied to within two weeks were treated as indicating non-interest and coded as 0 for Response. In contrast, a replied 
+message was coded as 1.10
+We used Entrepreneur Sender to denote entrepreneur profiles in both experiments. In Field Experiment 1, this variable was coded as 
+1 for the entrepreneur profile and 0 for the manager profile. The effects of Female Entrepreneur Sender and Male Entrepreneur Sender 
+were also examined separately in Field Experiment 1. In Field Experiment 2, Entrepreneur Sender was coded as 1 for the cybersecurity 
+startup founder and the florist, and 0 for the remaining profiles. We also examined these profiles separately.
+We hypothesized that the impact of female entrepreneur status on response depends on whether the message recipient is an 
+entrepreneur. This moderator, Entrepreneur Recipient, was constructed based on recipient profile information and coded as 1 if the 
+recipient listed “operates own business” and 0 otherwise.
+Our experimental design ensures randomization of the entrepreneur status, which allows us to derive unbiased causal estimates. To 
+improve estimate precision, we collected a set of control variables to account for recipients' personal attributes. In the assortative 
+mating literature, age, education level, and income are among the most important factors affecting partner selection (e.g., Schwartz, 
+2013). Accordingly, we controlled for the recipient's reported Age. Education was measured using a categorical variable coded as 
+0 (below high school), 1 (high school graduate), 2 (college graduate), 3 (master's degree), and 4 (doctoral degree). The website allowed 
+users to self-report monthly income using five bracket levels (with higher values indicating higher income), which we used to construct 
+the Income variable. We also included binary indicators for whether recipients had Never Married, owned a House or a Car, or resided in 
+Shanghai rather than Xi'an (Field Experiment 1 only). Finally, we controlled for whether the recipient had a local (Shanghai or Xi'an) 
+Hukou,11 which significantly affects long-term partner prospects in China (Qian and Qian, 2017).
+Given our experimental design, we conducted response-level analyses to examine how sender and recipient characteristics—most 
+importantly whether the message sender was a female entrepreneur—affected the likelihood of receiving a response. In addition to the 
+control variables described above, we included month fixed effects for when the message was sent.
+4. Results
+4.1. Main findings for field experiment 1
+Table 1 presents descriptive statistics and correlations for Field Experiment 1. Fig. 1 provides descriptive evidence consistent with 
+our proposition that female entrepreneurs are disadvantaged at the stage of romantic relationship initiation. Among male senders, 
+messages sent by the entrepreneur profile were more likely to receive a response compared to those sent by the manager profile (about 
+31% vs. 26%). In contrast, among female senders, messages sent by the entrepreneur profile were less likely to receive a response than 
+those sent by the manager profile (about 19% vs. 25%).
+Table 2 presents the results from Field Experiment 1. In Models 1–4, we include only the main explanatory variables. Model 1 shows 
+no overall penalty or premium associated with entrepreneur profiles. However, this average effect masks a significant gender dif­
+ference. In Model 2, we interact entrepreneur status with sender gender (female). The interaction term is negative and statistically 
+significant (β = −0.52, SE = 0.26, p < .05), suggesting that female entrepreneurs are penalized. Models 3 and 4 estimate the effects 
+separately by gender. Among female profiles, messages sent by the entrepreneur profile are significantly less likely to receive a reply 
+9 Again, we found no statistical differences in response rates or other available characteristics between observations with and without missing 
+information. Regressions without controls using the full sample yielded results nearly identical to those obtained after excluding observations with 
+missing information.
+10 Because we sent messages to recently active users, messages were almost always read by recipients. In the rare cases where messages were not 
+read, we coded Response as 0. Similarly, explicit rejection replies, also rare, were coded as 0.
+11 Hukou is China's household registration system that regulates individuals' eligibility to live, work, and study in their registered location.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+7 
+
+===== PAGE 8 =====
+than those sent by the manager profile (β = −0.39, SE = 0.18, p < .05). This corresponds to a 6.7 percentage point lower probability of 
+receiving a response for female entrepreneurs relative to female managers. In contrast, entrepreneur status does not significantly affect 
+response rates among male profiles (β = 0.13, SE = 0.17, p > .10). Including control variables in Models 5–6 does not materially alter 
+these results. Taken together, these findings support Hypothesis 1.
+We next examine whether the romantic penalty for female entrepreneurs is mitigated when message recipients are entrepreneurs 
+themselves. In Models 7–8 of Table 3, we find positive and statistically significant interaction effects between sender and recipient 
+entrepreneur status for both female and male profiles (β = 3.38, SE = 0.53, p < .001; β = 3.55, SE = 1.00, p < .001, respectively). For 
+female entrepreneurs, the positive interaction more than offsets the negative main effect, generating a net premium when the recipient 
+Table 1 
+Descriptive Statistics and Pairwise Correlations (Field Experiment 1).
+Variables
+Mean
+SD
+Min
+Max
+1
+2
+3
+4
+1. Response
+0.25
+0.43
+0
+1
+1.00
+2. Female Sender
+0.49
+0.50
+0
+1
+−0.07
+1.00
+3. Entrepreneur Sender
+0.51
+0.50
+0
+1
+−0.02
+0.00
+1.00
+4. Entrepreneur Recipient
+0.09
+0.29
+0
+1
+0.14
+0.16
+−0.04
+1.00
+5. Age
+31.70
+5.97
+19
+58
+−0.04
+0.64
+0.01
+0.12
+6. Education
+2.22
+0.56
+0
+4
+0.00
+−0.01
+−0.01
+−0.03
+7. Income a
+3.34
+0.93
+1
+5
+0.04
+0.16
+−0.07
+0.16
+8. Never Married
+0.87
+0.32
+0
+1
+−0.02
+0.09
+0.10
+0.05
+9. House
+0.80
+0.39
+0
+1
+−0.01
+0.38
+−0.01
+0.06
+10. Car
+0.93
+0.25
+0
+1
+−0.07
+0.07
+−0.01
+0.01
+11. Shanghai
+0.51
+0.50
+0
+1
+0.18
+0.02
+0.01
+0.04
+12. Hukou
+0.83
+0.36
+0
+1
+−0.10
+0.18
+−0.06
+0.00
+5
+6
+7
+8
+9
+10
+11
+12
+5. Age
+1.00
+6. Education
+0.03
+1.00
+7. Income a
+0.14
+0.11
+1.00
+8. Never Married
+0.01
+−0.01
+−0.01
+1.00
+9. House
+0.23
+0.01
+−0.00
+0.08
+1.00
+10. Car
+0.01
+−0.01
+0.00
+0.01
+0.13
+1.00
+11. Shanghai
+0.01
+0.02
+0.17
+−0.10
+0.00
+−0.01
+1.00
+12. Hukou
+0.12
+0.10
+−0.01
+0.00
+0.16
+0.19
+−0.14
+1.00
+Notes: N = 1408. Correlation coefficients with an absolute value above 0.07 are significant at p < .01.
+a Income is measured in five brackets (Yuan per month): below 5000, 5000–10,000, 10,000–20,000, 20,000–50,000, above 50,000.
+Fig. 1. Response Rate by Entrepreneur Status and Sender Gender (Field Experiment 1). 
+Note: Response rate reflects the proportion of sent messages that received a reply.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+8 
+
+===== PAGE 9 =====
+is also an entrepreneur. In terms of marginal effects, female entrepreneurs are 15 percentage points less likely to receive a reply than 
+female managers when the recipient is a non-entrepreneur, but 44 percentage points more likely when the recipient is an entrepreneur. 
+As shown in Models 9–10, the findings remain robust to the inclusion of control variables. Fig. 2 illustrates this interaction effect for 
+female entrepreneurs.12 Taken together, these results support Hypothesis 2.
+Although female entrepreneurs are preferred by male entrepreneurs, entrepreneurs comprise only a small share of the population. 
+Thus, female entrepreneurs are, on average, penalized in romantic relationship initiation. We conducted several additional exploratory 
+analyses. First, we examined whether factors other than men's entrepreneur status, such as income, property ownership (car or house), 
+or possession of a local hukou, moderate the reduced romantic prospects of female entrepreneurs. In additional (unreported) analyses, 
+we found no statistically significant interaction effects. This suggests that male users' avoidance of female entrepreneurs is unlikely to 
+be driven primarily by hypergamy considerations (e.g., concerns that female entrepreneurs may outearn them). Second, gender role 
+expectations are culturally and socially shaped (Eagly and Karau, 2002). In further analyses (unreported), the romantic penalty was 
+evident in the Xi'an subsample, whereas no statistically significant effect was observed in the Shanghai subsample. Although a two-city 
+comparison does not permit strong causal claims, this pattern is consistent with prior research suggesting that residents in Shanghai 
+may hold less rigid gender role expectations (Xiao and Qian, 2020).
+4.2. Main findings for field experiment 2
+In the second field experiment, we replaced the manager control with two alternative occupations: a nurse and a primary school 
+Chinese teacher. We specified two entrepreneur profiles to reflect the heterogeneity of entrepreneurship: a technology startup founder 
+Table 2 
+Romantic Prospects for Female Entrepreneurs (Field Experiment 1).
+Variables
+Full 
+sample
+Full sample
+Female profile
+Male 
+profile
+Female profile
+Male 
+profile
+Model 1
+Model 2
+Model 3
+Model 4
+Model 5
+Model 6
+Constant
+−0.84***
+(0.10)
+−0.96***
+(0.11)
+−1.06***
+(0.12)
+−0.97***
+(0.12)
+−1.56 
+(1.15)
+−1.21 
+(0.80)
+Study variables
+Entrepreneur Sender
+−0.11 
+(0.12)
+0.12 
+(0.16)
+−0.39*
+(0.18)
+0.13 
+(0.17)
+−0.43*
+(0.20)
+0.13 
+(0.17)
+Female Sender
+−0.09 
+(0.17)
+Entrepreneur × Female Sender
+−0.52*
+(0.26)
+Entrepreneur Recipient
+0.99***
+(0.25)
+0.56 
+(0.37)
+Control variables
+Age
+0.02 
+(0.03)
+0.00 
+(0.02)
+Education
+0.05 
+(0.16)
+−0.04 
+(0.17)
+Income
+0.01*
+(0.01)
+−0.01 
+(0.01)
+Never Married
+−0.04 
+(0.34)
+0.06 
+(0.25)
+House
+0.64 
+(0.57)
+0.20 
+(0.19)
+Car
+−0.66 
+(0.47)
+−0.31 
+(0.30)
+Shanghai
+0.40†
+(0.22)
+1.13***
+(0.19)
+Hukou
+−1.28***
+(0.36)
+0.10 
+(0.21)
+Month fixed effects
+No
+No
+No
+No
+Yes
+Yes
+N
+1408
+1408
+699
+709
+699
+709
+Log likelihood
+−797.079
+−794.842
+−368.758
+−426.085
+−335.410
+−398.307
+Notes: Standard errors in parentheses.
+† p < .10.
+* p < .05.
+*** p < .001.
+12 In Online Appendix, an alternative graphic presentation of Figure 2 is provided.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+9 
+
+===== PAGE 10 =====
+and a flower shop owner (florist). Because the romantic penalty was observed only in the Xi'an subsample, we conducted Field 
+Experiment 2 in Xi'an. Table 4 reports descriptive statistics and correlations. The average response rate was comparable to that of the 
+first field experiment, suggesting stable user behavior across experiments.
+Table 5 reports the results of the second field experiment.13 Model 11 shows that, when combining both entrepreneur profiles, 
+female entrepreneurs are not penalized relative to the control occupations. However, examining these profiles separately reveals a 
+more nuanced pattern. Using female teacher as the omitted reference group, Model 12 shows that the female startup founder is 
+significantly penalized (β = −0.46, SE = 0.23, p < .05). In terms of effect size, the female startup founder is about 9 percentage points 
+less likely to receive a reply than a teacher, slightly larger than the penalty observed relative to a female manager in Field Experiment 
+1. The lifestyle entrepreneur (florist) faces neither a penalty nor a premium relative to a teacher, suggesting that the penalty is 
+concentrated among career-driven female entrepreneurs pursuing growth-oriented ventures. In unreported analyses, using florist as 
+the omitted reference group yields the same pattern, with the startup founder and nurse significantly penalized.14
+In Model 13, we again observe a romantic premium for the startup founder among male entrepreneur recipients, as the interaction 
+term (β = 2.23, SE = 0.78, p < .01) more than offsets the negative main effect. This effect is not observed in Model 14, as the interaction 
+between florist sender and entrepreneur recipient is not statistically significant. This pattern is consistent with the possibility that male 
+entrepreneurs do not view florists as sharing the same socioeconomic and cultural resources as startup founders.
+Findings from the second field experiment suggest that diminished romantic prospects are concentrated among growth-oriented 
+female entrepreneurs, whereas a premium emerges among male entrepreneur recipients. Moreover, the finding that nurses—a 
+Table 3 
+Romantic Prospects for Female Entrepreneurs: The Role of Recipient Entrepreneur Status (Field Experiment 1).
+Variables
+Female profile
+Male 
+profile
+Female 
+profile
+Male 
+profile
+Model 7
+Model 8
+Model 9
+Model 10
+Constant
+−1.35***
+(0.33)
+−0.83***
+(0.15)
+−0.98 
+(1.22)
+−1.25 
+(0.81)
+Study variables
+Entrepreneur Sender
+−1.03***
+(0.22)
+−0.03 
+(0.17)
+−1.05***
+(0.23)
+−0.05 
+(0.18)
+Entrepreneur Recipient
+−0.37 
+(0.35)
+−0.59 
+(0.65)
+−0.40 
+(0.39)
+−1.12†
+(0.66)
+Entrepreneur Sender × Recipient
+3.38***
+(0.53)
+3.55***
+(1.00)
+3.17***
+(0.55)
+3.56***
+(1.01)
+Control variables
+Age
+0.00 
+(0.03)
+0.00 
+(0.02)
+Education
+0.06 
+(0.17)
+−0.07  
+(0.17)
+Income
+0.01*
+(0.01)
+−0.01 
+(0.01)
+Never Married
+0.07 
+(0.34)
+0.09 
+(0.25)
+House
+0.60 
+(0.60)
+0.21 
+(0.19)
+Car
+−0.69 
+(0.50)
+−0.28 
+(0.30)
+Shanghai
+0.35 
+(0.24)
+1.14***
+(0.19)
+Hukou
+−1.15**
+(0.38)
+0.10 
+(0.21)
+Month fixed effects
+Yes
+Yes
+Yes
+Yes
+N
+699
+709
+699
+709
+Log likelihood
+−797.079
+−368.758
+−426.085
+−335.410
+Notes: Standard errors in parentheses.
+† p < .10.
+* p < .05.
+** p < .01.
+*** p < .001.
+13 Results with control variables are available in Table A5 of the Online Appendix. Estimated coefficients are essentially unchanged.
+14 In an unreported survey, we paired a female entrepreneur profile with a woman in a different occupation, such as a nurse. When asked to choose 
+a dating candidate between the two profiles, the nurse, similar to the teacher, was preferred over the entrepreneur profile. This pattern is consistent 
+with a romantic penalty for female entrepreneurs, while evidence related to penalties for nurses remains inconclusive.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+10 
+
+===== PAGE 11 =====
+highly feminine but time demanding occupation—are also penalized suggests that time demand concerns may play a role in early-stage 
+romantic evaluation. These patterns are in line with the possibility that perceived time demand is associated with the romantic penalty 
+experienced by female entrepreneurs.
+Fig. 2. The Moderating Effect of Recipient Entrepreneur Status on Response to Female Entrepreneurs (Field Experiment 1).
+Table 4 
+Descriptive Statistics and Pairwise Correlations (Field Experiment 2).
+Variables
+Mean
+SD
+Min
+Max
+1
+2
+3
+4
+1. Response
+0.27
+0.44
+0
+1
+1.00
+2. Startup Sender
+0.26
+0.44
+0
+1
+−0.06
+1.00
+3. Florist Sender
+0.26
+0.45
+0
+1
+0.06
+−0.41
+1.00
+4. Nurse Sender
+0.24
+0.42
+0
+1
+−0.07
+−0.28
+−0.31
+1.00
+5. Teacher Sender
+0.24
+0.42
+0
+1
+0.06
+−0.34
+−0.37
+−0.26
+6. Entrepreneur Recipient
+0.05
+0.21
+0
+1
+0.05
+0.01
+−0.02
+0.03
+7. Age
+32.27
+5.68
+20
+52
+0.05
+0.00
+−0.01
+0.04
+8. Education
+2.22
+0.93
+0
+4
+−0.04
+−0.01
+−0.04
+0.03
+9. Income a
+3.30
+0.97
+1
+5
+−0.08
+0.01
+−0.04
+0.04
+10. Never Married
+0.82
+0.37
+0
+1
+−0.01
+0.01
+−0.04
+0.05
+11. House
+0.23
+0.42
+0
+1
+−0.02
+0.01
+0.01
+−0.01
+12. Car
+0.21
+0.41
+0
+1
+−0.02
+0.00
+0.02
+0.00
+13. Hukou
+0.43
+0.49
+0
+1
+0.00
+−0.04
+0.02
+0.04
+Variables
+5
+6
+7
+8
+9
+10
+11
+12
+5. Teacher Sender
+1.00
+6. Entrepreneur Recipient
+−0.02
+1.00
+7. Age
+−0.03
+0.02
+1.00
+8. Education
+0.03
+0.06
+0.03
+1.00
+9. Income a
+−0.01
+0.26
+0.05
+0.29
+1.00
+10. Never Married
+0.00
+−0.01
+−0.03
+−0.02
+−0.01
+1.00
+11. House
+−0.02
+0.12
+0.01
+0.21
+0.23
+0.05
+1.00
+12. Car
+−0.03
+0.13
+0.03
+0.04
+0.10
+−0.03
+0.36
+1.00
+13. Hukou
+−0.01
+0.10
+−0.00
+0.18
+0.14
+0.00
+0.30
+0.21
+Notes: N = 787. Correlation coefficients with an absolute value above 0.09 are significant at p < .01.
+a Income is measured in five brackets (Yuan per month): below 5000, 5000–10,000, 10,000–20,000, 20,000–50,000, above 50,000.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+11 
+
+===== PAGE 12 =====
+4.3. Supplementary survey experiment
+We supplemented our field experiments with a survey experiment. Although a survey experiment presents hypothetical choice 
+scenarios and lacks the realism of field settings, it has two advantages. First, it allows us to replicate prior findings and assess their 
+robustness at a relatively low cost. In particular, we used the same female portrait in both field experiments. Although this choice 
+reduced noise associated with variations in facial appearance, it risked limiting generalizability. The survey setting allows us to address 
+this concern by including multiple female portraits. We therefore employ stimulus sampling by presenting participants with varied 
+stimuli (i.e., portraits) rather than a single stimulus (Cummings and Reeves, 2022; Wells and Windschitl, 1999).15 This practice has 
+also been used in other entrepreneurship studies that rely on portraits (e.g., Tonoyan et al., 2025; Younkin and Kuppuswamy, 2019). 
+Moreover, in the field experiments, the only feasible outcome was whether a recipient responded. The survey experiment allows us to 
+examine more nuanced outcomes. Second, the survey experiment allows us to explore how respondents perceive traits related to 
+gender role and time demand, and how these perceptions co-vary with their evaluations of female entrepreneurs. Relatedly, we also 
+aimed to collect qualitative information on men's opinions about female entrepreneurs to gain additional insight into underlying 
+perceptions.
+The survey was designed to mimic what male respondents would experience in a field setting. They were asked to imagine that they 
+had registered on a serious, long-term relationship-oriented dating website and had received a contact message from a female user. The 
+female profile was then displayed. To reduce cognitive burden, the profile contained only key information: a portrait, occupation, 
+income, education level, and age. Using an AI-powered image database provided by Generated Photos,16 we selected an initial set of 35 
+Asian female portraits. The authors then iteratively removed highly similar portraits (e.g., minor variations of others), resulting in 13 
+distinct portraits.
+For occupations, we used either a technology startup founder in the cybersecurity industry or a primary school Chinese teacher. 
+Income and age were set to match those used in the field experiments. This design produced 26 profiles, one of which was randomly 
+assigned to each respondent. After viewing the profile, respondents were asked whether they would be willing to (1) respond to the 
+message, which required registering for a membership costing 15 Yuan per month (Response),17 and, conditional on responding, (2) 
+meet the female user offline, such as by having dinner together (Meet).
+Table 5 
+Romantic Prospects for Female Entrepreneurs (Field Experiment 2).
+Variables
+Model 11
+Model 12 a
+Model 13 a
+Model 14 a
+Constant
+−0.90***
+(0.09)
+−0.75***
+(0.16)
+−0.74***
+(0.16)
+−0.79***
+(0.16)
+Study variables
+Entrepreneur Sender
+0.01 
+(0.16)
+Startup Sender
+−0.46*
+(0.23)
+−0.62**
+(0.24)
+−0.48*
+(0.23)
+Florist Sender
+−0.04 
+(0.21)
+−0.04 
+(0.21)
+0.01 
+(0.21)
+Nurse Sender
+−0.58*
+(0.26)
+−0.58*
+(0.26)
+−0.61*
+(0.26)
+Entrepreneur Recipient
+−0.17 
+(0.24)
+0.82*
+(0.39)
+Startup Sender × Entrepreneur Recipient
+2.23**
+(0.78)
+Florist Sender × Entrepreneur Recipient
+−1.02 
+(0.26)
+Month fixed effects
+Yes
+Yes
+Yes
+Yes
+N
+787
+787
+787
+699
+Log likelihood
+−461.500
+−456.900
+−426.085
+−335.410
+Notes: Standard errors in parentheses.
+* p < .05.
+** p < .01.
+*** p < .001.
+a Teacher Sender is used as the omitted reference group.
+15 Please refer to Table A6 in the Online Appendix for more detailed information on stimulus sampling, and Table A7 for bivariate difference 
+comparisons between treatment and control groups.
+16 https://generated.photos/
+17 In the pilot experiment, a high proportion of survey respondents chose to respond, likely because responding was costless in the survey setting. 
+This deviates from the reality of online dating, where responding to messages entails costs (e.g., time and effort, registration fees). We therefore 
+added this term to reflect such costs.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+12 
+
+===== PAGE 13 =====
+We then included several perception-based measures related to gender role traits and time demand. Gender role violation may 
+trigger trait inferences, leading men to perceive female entrepreneurs as lower in communality and higher in agency (e.g., Heilman 
+et al., 1989; Heilman et al., 1995). Because we focus on perceptions in a romantic context, we used general scales measuring perceived 
+Communality (four items, α = 0.87) and Agency (six items, α = 0.86) (Heilman and Okimoto, 2007). We also included a measure of 
+Family Orientation (three items, α = 0.71), which captures whether women are seen as understanding, wanting children, and religious, 
+attributes prior research suggests are valued in long-term romantic partners (Kenrick et al., 1990). To assess time demand concerns, 
+respondents indicated on a 5-point scale how occupied by work they believed the female user to be (Time Demand).
+In addition, we measured respondents' Gender Role Attitude using an 8-item scale (Koo et al., 2020) (α = 0.82), which may moderate 
+the main effect. We also collected respondent Age, Education, Income, marital status (Never Married), and occupation as controls. At the 
+end of the survey, respondents were asked to describe perceived advantages and disadvantages of the female user as a potential long- 
+term romantic partner. These questions allowed us to gather qualitative insights. The survey experiment received IRB approval.
+The survey was administered on Tencent Questionnaire, a major online survey platform in China with a large and diverse 
+respondent pool. We required respondents to be male and over the age of 18. After excluding those who failed attention checks, we 
+obtained a total of 985 valid responses. The probability of choosing to respond (73%) was substantially higher than in the field ex­
+periments, likely because the hypothetical setting reduced real response costs. Nonetheless, willingness to meet offline was signifi­
+cantly lower (31%). Survey respondents were similar in age to those in the field experiments but reported lower average income.18
+Table 6 reports the results from the survey experiment. Using whether respondents chose to respond to the message as the outcome 
+variable (i.e., consistent with the field experiments), Model 15 replicates our prior finding of a romantic penalty for female entre­
+preneurs (β −0.35, SE = 0.14, p < .05). Because the survey profiles contained 13 distinct portraits, this suggests that the romantic 
+penalty is not driven by idiosyncratic features of a single portrait. When using willingness to meet offline as the outcome variable, the 
+coefficient becomes statistically insignificant (unreported). This pattern suggests that female entrepreneur status may act as an initial 
+filter: it affects whether men choose to respond, but does not significantly influence the subsequent decision to meet offline. Given this 
+finding, subsequent analyses focus on willingness to respond as the outcome.
+Controlling for portrait fixed effects has little impact on the point estimate (Model 16), nor does adding control variables (Model 
+17). Because the survey draws respondents from diverse provinces in China, Model 18 further includes province fixed effects. The main 
+effect becomes smaller in magnitude, consistent with our earlier observation that the magnitude of the romantic penalty varies across 
+regions, potentially reflecting differences in underlying values and attitudes. To examine this more directly, Model 19 interacts female 
+entrepreneur status with respondents' Gender Role Attitude. The interaction term is statistically significant (β = −0.53, SE = 0.22, p <
+.05), suggesting that the romantic penalty for female entrepreneurs is stronger among men who hold more traditional gender role 
+attitudes.
+Following prior research (e.g., Calic and Mosakowski, 2016), we conducted a mediation analysis by first estimating the effect of the 
+explanatory variable on the proposed mediators, followed by the more formal KHB approach (Kohler et al., 2011). The KHB approach 
+offers several advantages and has been widely used in entrepreneurship research (e.g., Calic and Mosakowski, 2016; Tonoyan et al., 
+2020; Tonoyan et al., 2025). These results are reported in Table 7.
+We find that female entrepreneurs are perceived as less communal and more agentic, consistent with predictions based on gender 
+role violation. Moreover, men tend to believe that female entrepreneurs are more occupied by work (relative to female teachers), 
+consistent with the time demand argument. Female entrepreneurs are also seen as less family oriented. The last column of Table 7
+presents the KHB results. These findings suggest that the lower likelihood of responding to female entrepreneurs is partly associated 
+with men's perceptions that female entrepreneurs are lower in communality and, marginally, lower in family orientation. Specifically, 
+perceived lower communality and lower family orientation are associated with 30.35% and 19.38%, respectively, of the observed 
+differential in response likelihood. Although female entrepreneurs are perceived as more agentic and more occupied by work, these 
+perceptions do not appear to significantly influence men's willingness to respond.
+In addition, we analyzed the open-ended text responses using a BERT-based topic modeling approach.19 The resulting themes 
+reveal patterns indicative of trait inference in line with gender role violation (and gender role congruity, in the case of female teachers). 
+Male respondents most often cited an “independent personality” and an “accomplished career” as advantages of female entrepreneurs, 
+whereas phrases reflecting “domineering” appeared with striking frequency (248 occurrences), making this one of the most frequently 
+inferred disadvantages. In contrast, female teachers were frequently described as understanding and kind, as well as family and child 
+oriented. For female entrepreneurs, the former quality was rarely mentioned, and the latter was not mentioned. Although some men 
+also described teachers as domineering, related phrases appeared much less often (112 occurrences) and often reflected teachers' 
+authoritative classroom role rather than innate personality traits.
+Both occupations were viewed as time demanding, but a closer examination of responses revealed two nuanced differences. First, 
+men explicitly suggested that female entrepreneurs were unable or unwilling to devote time to family. Such concerns were not 
+expressed for female teachers. Instead, men frequently noted that teachers were family and child oriented and would have ample free 
+time once the school day is over. Second, female teachers were often described as involuntarily occupied by work, whereas female 
+entrepreneurs were portrayed as voluntarily and willingly prioritizing work, suggesting that inferences about time demand may be 
+intertwined with trait-based inferences.20
+18 Please refer to Table A8 in the Online Appendix for detailed descriptive statistics from the survey experiment.
+19 Responses that were vague (e.g., “personality,” “great”) or pertaining to control variables (e.g., “good looking”) were excluded.
+20 Please refer to Table A9 in the Online Appendix for detailed information on BERT results.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+13 
+
+===== PAGE 14 =====
+5. Discussion and conclusion
+This study provides causal evidence that female entrepreneurs face unfavorable evaluation in early-stage romantic relationship 
+initiation. It further offers exploratory and suggestive evidence regarding the perceptual processes associated with this penalty. Using 
+two field experiments conducted in China, we identify a causal effect of entrepreneur status on men's initial response behavior in an 
+online dating setting. In the first field experiment, female entrepreneurs receive fewer responses compared to comparable female 
+managers. Extending this finding, the second field experiment shows the romantic penalty is mainly experienced by growth-oriented 
+female entrepreneurs (technology startup founders), but not lifestyle-oriented ones (florists). The supplementary survey experiment 
+produces consistent results. Because male entrepreneurs, who tend to respond favorably to female entrepreneurs, comprise a small 
+share of the dating pool, female entrepreneurs likely face a romantic penalty overall.
+We proposed gender role violation (and the resulting trait inferences) and time demand concerns as two potential channels through 
+which romantic penalty may arise. Supporting evidence, though suggestive, can be found. In the survey experiment, growth-oriented 
+female entrepreneurs are perceived as significantly more agentic and less communal, with lower perceived communality associated 
+with a lower willingness to respond. These perceptions are echoed in open-ended responses, where terms such as “domineering,” 
+reflecting a combination of high agency and low communality, emerge as prominent negative themes.21 These findings appear to lend 
+support to the trait inference mechanism. We also find some support for time demand concerns. Compared to teachers, female en­
+trepreneurs are significantly more likely to be seen as occupied by work.
+At the same time, our reading of qualitative responses suggests that time demand perceptions often concern women's willingness, 
+rather than ability as constrained by objective work demand, to allocate time to family. Specifically, female entrepreneurs are 
+frequently portrayed by men as willingly prioritizing work over family, whereas teachers are described as willing to care for family, 
+despite being occupied by work. We interpret this pattern as suggesting time demand concerns may be intertwined with or reflect trait- 
+based inferences. Despite these interesting findings, we caution that discussions on specific mechanisms that drive the romantic 
+penalty are not conclusive. The mechanisms proposed in this study entail perceptual variables that can be interrelated and difficult to 
+be cleanly identified. Relatedly, occupational labels bundle multiple attributes, including income expectations, sector stereotypes, 
+caregiving norms, perceived flexibility, and social class cues. As a result, our occupational contrasts should be interpreted as composite 
+treatments rather than clean tests of any single theoretical account. Accordingly, we interpret our findings as documenting patterned 
+responses and co-moving perceptions in early-stage partner evaluation, rather than as definitive adjudication among competing 
+explanations.
+5.1. Contributions
+This study broadens existing understanding of the business-family interface from a family embeddedness perspective (Aldrich and 
+Cliff, 2003; Hughes and Jennings, 2020). Although the original formulation of this perspective emphasizes the bidirectional rela­
+tionship between the entrepreneurial domain and the family domain, extant research has centered primarily on how family factors 
+affect entrepreneurial outcomes (e.g., Mathias and Wang, 2023; Noseleit, 2014), with comparatively less attention to how entre­
+preneurial decisions affect family choices and outcomes (Jennings et al., 2013). Among studies examining family outcomes, the female 
+Table 6 
+Romantic Prospects for Female Entrepreneurs (Survey Experiment).
+Variables
+Model 15
+Model 16
+Model 17
+Model 18
+Model 19
+Constant
+1.19***
+(0.11)
+0.74**
+(0.24)
+−1.67*
+(0.74)
+−1.73*
+(0.86)
+−2.67**
+(0.95)
+Study variables
+Entrepreneur Sender
+−0.35*
+(0.14)
+−0.36*
+(0.15)
+−0.31*
+(0.15)
+−0.28†
+(0.15)
+1.51*
+(0.75)
+Entrepreneur Sender × Gender Role Attitude
+−0.53*
+(0.22)
+Portrait fixed effects
+No
+Yes
+Yes
+Yes
+Yes
+Controls
+No
+No
+Yes
+Yes
+Yes
+Province fixed effects
+No
+No
+No
+Yes
+Yes
+N
+985
+985
+985
+985
+985
+Log likelihood
+−569.633
+−560.894
+−532.764
+−518.238
+−515.258
+Notes: Standard errors in parentheses.
+† p < .10.
+* p < .05.
+** p < .01.
+*** p < .001.
+21 Informally, we interviewed male website users when conducting Field Experiment 1, asking their opinions about female entrepreneurs as 
+romantic partners. Their responses also indicated gender role violation, with many believing female entrepreneurs were “bossy” and “ambitious.”
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+14 
+
+===== PAGE 15 =====
+entrepreneurs studied are typically married and have children (e.g., Li and Tong, 2023). These women tend to opt into (lifestyle) 
+entrepreneurship (Carr, 1996; Th´ebaud, 2015) and, despite its greater flexibility, frequently experience business-family conflict 
+(Jennings and McDougald, 2007; Jurik, 1998; Shelton, 2006).
+Although these findings are important, Patrick et al. (2016) demonstrate that single female entrepreneurs differ from married 
+female entrepreneurs in that they tend to pursue growth-oriented ventures in a way similar to male entrepreneurs. This observation 
+suggests that the choices and family outcomes of single female entrepreneurs also warrant attention, given their distinct entrepre­
+neurial motives (e.g., Carr, 1996; Th´ebaud, 2015). In addition, the family embeddedness perspective is grounded in a life course model 
+marked by significant life transitions, such as marriage and divorce (Aldrich et al., 2021). A fuller understanding of the business-family 
+interface therefore requires moving beyond married women and expanding the range of life transitions examined. For instance, Parker 
+(2008) shows that among married couples, one partner is significantly more likely to be self-employed when the other partner is also 
+self-employed (i.e., entrepreneur households). This pattern cannot be fully understood without considering how entrepreneur status 
+influences partner selection and relationship formation, as selection processes at earlier relationship stages may partly explain the 
+emergence of entrepreneur households.
+Our study contributes directly to this research stream. We provide causal evidence on how a woman's entrepreneur status affects 
+her likelihood of receiving interest from men at the stage of romantic relationship initiation. Success at this stage is a necessary step 
+toward family formation. Using data from Xi'an, China, our findings suggest that pursuing growth-oriented, but not lifestyle, entre­
+preneurship is associated with lower romantic prospects for women. This penalty is partly offset by occupational homogamy, but may 
+remain consequential given that male entrepreneurs comprise only a small fraction of all men. Although marriage is not necessarily a 
+life goal for all women, it remains a significant life transition (Aldrich and Cliff, 2003). In this way, our study extends scholarly 
+Table 7 
+KHB Mediation Test Results (Survey Experiment).
+Variables
+Communality
+Agency
+Time Demand 
+(occupied by work)
+Family Orientation
+Response
+Constant
+3.46***
+(0.04)
+2.31***
+(0.04)
+3.66***
+(0.04)
+3.50***
+(0.04)
+Study variables
+Entrepreneur Sender
+−0.12*
+(0.05)
+0.52***
+(0.06)
+0.56***
+(0.06)
+−0.32***
+(0.05)
+Reduced a
+−0.40*
+(0.16)
+Full b
+−0.21 
+(0.17)
+Difference c
+−0.19*
+(0.09)
+Summary of confounding
+Confounding ratio d
+1.89
+Confounding (%) e
+47.22%
+Components of difference f
+Mediators
+Communality
+−0.12*
+(0.05) 
+[30.35%]
+Agency
+0.05 
+(0.05) 
+[−3.10%]
+Time Demand 
+(occupied by work)
+−0.04 
+(0.05) 
+[10.59%]
+Family Orientation
+−0.08†
+(0.05) 
+[19.38%]
+N
+985
+985
+985
+985
+985
+Notes: Standard errors in parentheses.
+† p < .10.
+* p < .05.
+*** p < .001.
+a Reduced denotes the effect of female entrepreneurship prior to mediation.
+b Full denotes the effect of female entrepreneurship after mediation.
+c Difference denotes the difference between the two.
+d Confounding ratio = Reduced/Full.
+e Confounding (or mediating) percentage.
+f The amount in the square brackets reports the percentage of the total mediation attributed to that mediator.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+15 
+
+===== PAGE 16 =====
+attention to family-related processes that precede family formation for single female entrepreneurs.
+By examining romantic prospects, we offer an alternative perspective on existing accounts of “entrepreneur households,” or the 
+frequent emergence of “copreneurs” (Mahanti et al., 2025). Based on archival data, Parker's (2008) analysis suggests that knowledge 
+spillovers between spouses help explain the emergence of such households. Complementing this account, our study provides sug­
+gestive evidence that romantic relationship initiation patterns may also contribute to the sorting of male and female entrepreneurs into 
+partnerships. More broadly, our findings suggest that examinations of the business-family interface among married entrepreneurs 
+should consider potential selection effects occurring at the dating stage.
+Our study is also relevant for the female entrepreneurship literature. A major interest in this literature is understanding why female 
+entrepreneurs are underrepresented and underperform relative to their male counterparts (Loscocco and Bird, 2012). Both supply and 
+demand side explanations have been developed. On the supply side, women often lack the experience and confidence needed to enter 
+entrepreneurship (e.g., Langowitz and Minniti, 2007; Th´ebaud, 2010; Tonoyan et al., 2020). On the demand side, female entrepreneurs 
+face greater difficulty obtaining investment or must do so at higher cost (e.g., Bigelow et al., 2014; Brooks et al., 2014; Guzman and 
+Kacperczyk, 2019; Liu et al., 2024; Muravyev et al., 2009; Poczter and Shapsis, 2018). These findings imply that demand-side 
+discrimination within the business domain discourages and disadvantages female entrepreneurship.
+Our study extends this literature by moving into the family domain and identifying a romantic penalty as a previously underex­
+plored challenge female entrepreneurs may face. In discussions of demand side discrimination in the business domain, scholars 
+highlight trait inferences triggered by job role violation as a key explanatory mechanism. Our study provides suggestive evidence that 
+gender role violation may also trigger trait inferences that penalize female entrepreneurs in the family domain. Beyond trait inferences, 
+we find tentative evidence that concerns about time demand may also reduce female entrepreneurs' romantic prospects.
+Taken together, these findings provide a plausible complementary perspective on the underrepresentation and underperformance 
+of female entrepreneurship. Although we do not establish a direct link between romantic penalty and women's entry into or perfor­
+mance in entrepreneurship, such a connection is theoretically consistent with prior research. Gupta et al. (2009) note that gender 
+stereotypes may deter female entrepreneurship by shaping not women's own perceptions, but rather the perceptions of those around 
+them (e.g., families), who may in turn discourage women from starting businesses. Relatedly, research on occupational choice suggests 
+that women incorporate family considerations, including romantic prospects, into career decisions (McClintock, 2020). For instance, 
+women may be less likely to enter occupations associated with delayed marriage (Zhang and Zou, 2023) or downplay career ambitions 
+to improve romantic prospects (Bursztyn et al., 2020). Interviews with female entrepreneurs in China further indicate that social 
+pressure to marry can shape both personal and professional decisions (Song and Li, 2023). Together, these studies suggest that 
+romantic penalty may represent an additional demand side constraint—located in the family domain—shaping women's entrepre­
+neurial trajectories.
+5.2. Practical implications
+Our findings suggest that women considering entrepreneurship as a career path may, on average, encounter an early-stage romantic 
+penalty in relationship initiation, in addition to the well-documented challenges in the business domain (e.g., fundraising). Although 
+the observed effects are modest and concentrated in initial screening contexts, they indicate that occupational identity can shape 
+perceptions beyond the workplace. Awareness of these dynamics may help prospective female entrepreneurs anticipate how entre­
+preneur status is interpreted in social settings.
+We also observe that male entrepreneurs respond more favorably to female entrepreneurs, suggesting that occupational similarity 
+may mitigate some of the observed disadvantage. More broadly, our findings highlight how gendered perceptions of work and family 
+roles can extend into personal domains. Efforts to normalize shared caregiving responsibilities, recognize women's contributions to 
+both family and professional domains (Goldin, 2021), and promote more gender-neutral images of entrepreneurship may gradually 
+reduce such perception-based disparities.
+5.3. Limitations and future research
+There are several limitations that warrant attention. First, field experiments allow us to identify causal effects in a realistic setting, 
+yet they are constrained by feasibility and external validity (Chatterji et al., 2016). We use user reply as a feasible proxy for early-stage 
+romantic prospects, forgoing outcomes that may be theoretically desirable but practically difficult to observe or implement (e.g., 
+sustained conversations, offline meetings, or long-term relationship formation). Because entrepreneur status does not appear to in­
+fluence willingness to meet offline, our findings are best interpreted as applying to the initial screening stage of romantic interaction 
+rather than to later relationship development. Profile characteristics (e.g., age, income) were selected to generate sufficient engage­
+ment, consistent with prior research. These design choices may limit ecological realism to the extent that respondents hold different 
+baseline expectations about entrepreneurs' age or other characteristics.
+Likewise, our field experiments could not control for background factors that may interact with treatment conditions in ways that 
+are not directly observable (Lynch, 1982, 1983). For instance, particular facial attributes in the portraits could interact with occu­
+pational labels in ways that influence responses. Although we held portraits constant within field experiments and implemented 
+stimulus sampling in the survey experiment, our findings should be interpreted as robust to the sampled portraits rather than invariant 
+to all possible facial variations. Replication across designs and the use of multiple photos in the survey experiment partially mitigate 
+this concern (Dipboye, 1990). In addition, we caution that interpretation of the underlying mechanisms should be viewed as sug­
+gestive. Although the estimated main effects are causally identified and generally consistent across the field and survey experiments, 
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+16 
+
+===== PAGE 17 =====
+their magnitudes are modest and most reach conventional levels of statistical significance. Similarly, bivariate effect-size estimates 
+reported in the Online Appendix are small, underscoring that the documented patterns should be interpreted as modest in magnitude. 
+Because some occupation-level contrasts involve smaller effective cell sizes, these results should be interpreted cautiously. The 
+mediation analyses likewise provide partial support, with only some perceptual dimensions reaching statistical significance. 
+Accordingly, we interpret the evidence regarding mechanisms and perceptual processes as suggestive of patterned differences in early- 
+stage partner evaluation rather than as definitive estimates of effect size or cleanly isolated mechanisms.
+Third, because our study was conducted in China, questions of contextual dependence arise. Although differences between Xi'an 
+and Shanghai, as well as moderation by gender role attitude in the survey, are consistent with the possibility that local norms shape the 
+magnitude of the romantic penalty, the two-city comparison does not permit strong inference about underlying sources of hetero­
+geneity. Multiple contextual factors, including labor market conditions, perceptions and types of entrepreneurs, and platform usage 
+patterns may co-vary with gender role attitudes across regions (He et al., 2019; Tonoyan et al., 2010). Replication in other institutional 
+and cultural contexts would therefore be valuable.
+Furthermore, several additional avenues for research remain open. Although we focus on online dating, it is unclear whether 
+similar patterns would emerge in offline or network-based meeting contexts. Future research could also examine whether female 
+entrepreneurs strategically select into particular dating channels or adjust self-presentation in response to perceived penalties. More 
+broadly, understanding how occupational identity shapes relationship formation over the life course remains an important direction 
+for further study.
+5.4. Conclusion
+Using field experiments, we provide causal evidence that a woman's entrepreneur status influences men's response behavior in 
+early-stage online dating contexts. On average, female entrepreneur profiles receive fewer responses than comparable non- 
+entrepreneur profiles, indicating an early-stage romantic penalty. This penalty, however, is mitigated among male entrepreneurs. 
+Patterns observed in the supplementary survey experiment are consistent with the possibility that gendered trait inferences—and, to a 
+lesser extent, concerns about work-related time demand—shape these evaluation patterns. By documenting this early-stage romantic 
+penalty and its associated perceptions, our study advances female entrepreneurship research by highlighting obstacles women face in 
+the family domain, and extends the family embeddedness perspective in entrepreneurial settings by demonstrating how entrepreneur 
+status has consequences for family formation.
+CRediT authorship contribution statement
+Di Tong: Writing – review & editing, Writing – original draft, Visualization, Validation, Supervision, Software, Resources, Project 
+administration, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. Xiumei Li: Writing – review & 
+editing, Validation, Supervision, Resources, Project administration, Investigation, Conceptualization. Haemin Dennis Park: Writing – 
+review & editing, Validation, Supervision, Resources, Project administration, Methodology, Investigation, Conceptualization.
+Declaration of competing interest
+The authors did not receive support from any organization for the submitted work. The authors have no relevant financial or non- 
+financial interests to disclose.
+Acknowledgements
+We thank the editor and the three anonymous reviewers for their constructive guidance and thoughtful feedback. Our colleagues 
+and participants at the following seminars or conferences, where earlier versions of this paper have been presented, also provided 
+valuable suggestions: Nankai University Business School Seminar, Nottingham University Business School China Seminar, Nottingham 
+University Business School China Brownbag Session, 2024 Dakota Entrepreneurship Research Symposium, 2022 Quarterly Journal of 
+Management International Conference. Finally, we thank our research assistance team for its excellent work.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.jbusvent.2026.106608.
+Data availability
+Data will be made available on request.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+17 
+
+===== PAGE 18 =====
+References
+Afifi, W.A., Lucas, A.A., 2008. Information seeking in initial stages of relational development. In: Sprecher, S., Wenzel, A., Harvey, J. (Eds.), Handbook of relationship 
+initiation. Psychology Press, pp. 135–151.
+Ahl, H., 2006. Why research on women entrepreneurs needs new directions. Entrepreneurship Theory and Practice 30 (5), 595–621.
+Aldrich, H.E., Cliff, J.E., 2003. The pervasive effects of family on entrepreneurship: Toward a family embeddedness perspective. J. Bus. Ventur. 18 (5), 573–596.
+Aldrich, H.E., Brumana, M., Campopiano, G., Minola, T., 2021. Embedded but not asleep: Entrepreneurship and family business research in the 21st century. Journal 
+of Family Business Strategy 12 (1), 100390.
+Badgett, M.V.L., Folbre, N., 1999. Assigning care: Gender norms and economic outcomes. International Labour Review 138 (3), 311–326.
+Baron, R.A., Markman, G.D., Hirsa, A., 2001. Perceptions of women and men as entrepreneurs: Evidence for differential effects of attributional augmenting. J. Appl. 
+Psychol. 86 (5), 923–929.
+Baum, J.R., Frese, M., Baron, R.A., 2014. The Psychology of Entrepreneurship. Psychology Press.
+Bazzi, S., Fiszbein, M., Gebresilasse, M., 2020. Frontier culture: The roots and persistence of “rugged individualism” in the United States. Econometrica 88 (6), 
+2329–2368.
+Becker, G.S., 1973. A theory of marriage: Part I. J. Polit. Econ. 81 (4), 813–846.
+Bengtsson, O., Hsu, D.H., 2015. Ethnic matching in the US venture capital market. J. Bus. Ventur. 30 (2), 338–354.
+Beugelsdijk, S., Noorderhaven, N., 2005. Personality characteristics of self-employed; an empirical study. Small Bus. Econ. 24 (2), 159–167.
+Bianchi, S.M., Sayer, L.C., Milkie, M.A., Robinson, J.P., 2012. Housework: Who did, does or will do it, and how much does it matter? Social Forces 91 (1), 55–63.
+Bigelow, L., Lundmark, L., McLean Parks, J., Wuebker, R., 2014. Skirting the issues: Experimental evidence of gender bias in IPO prospectus evaluations. J. Manag. 40 
+(6), 1732–1759.
+Bittman, M., England, P., Sayer, L., Folbre, N., Matheson, G., 2003. When does gender trump money? Bargaining and time in household work. Am. J. Sociol. 109 (1), 
+186–214.
+Brooks, A.W., Huang, L., Kearney, S.W., Murray, F.E., 2014. Investors prefer entrepreneurial ventures pitched by attractive men. Proc. Natl. Acad. Sci. 111 (12), 
+4427–4431.
+Brush, C.G., De Bruin, A., Welter, F., 2009. A gender-aware framework for women’s entrepreneurship. Int. J. Gend. Entrep. 1 (1), 8–24.
+Budig, M.J., 2006. Intersections on the road to self-employment: Gender, family and occupational class. Social Forces 84 (4), 2223–2239.
+Bursztyn, L., Gonz´alez, A.L., Yanagizawa-Drott, D., 2020. Misperceived social norms: Women working outside the home in Saudi Arabia. Am. Econ. Rev. 110 (10), 
+2997–3029.
+Buss, D.M., Barnes, M., 1986. Preferences in human mate selection. J. Pers. Soc. Psychol. 50 (3), 559–570.
+Calic, G., Mosakowski, E., 2016. Kicking off social entrepreneurship: How a sustainability orientation influences crowdfunding success. J. Manag. Stud. 53 (5), 
+738–767.
+Carr, D., 1996. Two paths to self-employment? Women’s and men’s self-employment in the United States, 1980. Work. Occup. 23 (1), 26–53.
+Cash, T.F., Gillen, B., Burns, D.S., 1977. Sexism and beautyism in personnel consultant decision making. J. Appl. Psychol. 62 (3), 301–310.
+Cassar, G., 2010. Are individuals entering self-employment overly optimistic? An empirical test of plans and projections on nascent entrepreneur expectations. Strateg. 
+Manag. J. 31 (8), 822–840.
+Chatterji, A.K., Findley, M., Jensen, N.M., Meier, S., Nielson, D., 2016. Field experiments in strategy research. Strateg. Manag. J. 37 (1), 116–132.
+Choi, K.H., Qian, Y., 2023. Differences in occupational homogamy by race, ethnicity, and national origin. Demogr. Res. 48, 483–512.
+Cummings, J.J., Reeves, B., 2022. Stimulus sampling and research integrity. In: Jussim, L., Krosnick, J.A., Stevens, S.T. (Eds.), Research integrity: Best practices for the 
+social and behavioral sciences. Oxford University Press, pp. 203–223.
+Dipboye, R.L., 1990. Laboratory vs. field research in industrial and organizational psychology. Int. Rev. Ind. Organ. Psychol. 5, 1–34.
+Duehr, E.E., Bono, J.E., 2006. Men, women, and managers: are stereotypes finally changing? Pers. Psychol. 59 (4), 815–846.
+Eagly, A.H., 1987. Sex Differences in Sexual Behavior: A Social-Role Interpretation. Lawrence Erlbaum. 
+Eagly, A.H., Karau, S.J., 2002. Role congruity theory of prejudice toward female leaders. Psychol. Rev. 109 (3), 573–598.
+Eddleston, K.A., Powell, G.N., 2012. Nurturing entrepreneurs’ work–family balance: A gendered perspective. Entrepreneurship Theory and Practice 36 (3), 513–541.
+Egebark, J., Ekstr¨om, M., Plug, E., Van Praag, M., 2021. Brains or beauty? Causal evidence on the returns to education and attractiveness in the online dating market. 
+J. Public Econ. 196, 104372.
+Fagenson, E.A., 1993. Personal value systems of men and women entrepreneurs versus managers. J. Bus. Ventur. 8 (5), 409–430.
+Fisman, R., Iyengar, S.S., Kamenica, E., Simonson, I., 2006. Gender differences in mate selection: Evidence from a speed dating experiment. Q. J. Econ. 121 (2), 
+673–697.
+Freeman, R.B., Huang, W., 2015. Collaborating with people like me: Ethnic coauthorship within the United States. J. Labor Econ. 33 (S1), S289–S318.
+Goldin, C., 2014. A grand gender convergence: Its last chapter. Am. Econ. Rev. 104 (4), 1091–1119.
+Goldin, C., 2021. Career and family: Women’s century-long journal toward equity. Princeton University Press.
+Gompers, P.A., Mukharlyamov, V., Xuan, Y., 2016. The cost of friendship. J. Financ. Econ. 119 (3), 626–644.
+Gupta, V.K., Turban, D.B., Wasti, S.A., Sikdar, A., 2009. The role of gender stereotypes in perceptions of entrepreneurs and intentions to become an entrepreneur. 
+Entrepreneurship Theory and Practice 33 (2), 397–417.
+Guzman, J., Kacperczyk, A.O., 2019. Gender gap in entrepreneurship. Res. Policy 48 (7), 1666–1680.
+Hayes, B.C., 1993. Occupational homogamy within northern Ireland and the republic of Ireland: A log-linear analysis. Int. J. Sociol. Soc. Policy 13 (1/2), 99–117.
+He, C., Lu, J., Qian, H., 2019. Entrepreneurship in China. Small Bus. Econ. 52 (3), 563–572.
+He, S., Noussair, C.N., 2023. Social norms and couples’ division of labor. Frontiers in Behavioral Economics 2, 1112934.
+Heilman, M.E., Okimoto, T.G., 2007. Why are women penalized for success at male tasks?: the implied communality deficit. J. Appl. Psychol. 92 (1), 81–92.
+Heilman, M.E., Stopeck, M.H., 1985. Attractiveness and corporate success: Different causal attributions for males and females. J. Appl. Psychol. 70 (2), 379–388.
+Heilman, M.E., Block, C.J., Martell, R.F., Simon, M.C., 1989. Has anything changed? Current characterizations of men, women, and managers. J. Appl. Psychol. 74 (6), 
+935–942.
+Heilman, M.E., Block, C.J., Martell, R.F., 1995. Sex stereotypes: Do they influence perceptions of managers? J. Soc. Behav. Pers. 10 (4), 237–252.
+Hil, S., Ionescu-Somers, A., Coduras, A., Guerrero, M., Menipaz, E., Boutaleb, F., Zbierowski, P., Sahasranamam, S., Shay, J., 2024. GEM 2023/2024 global report-25 
+years and growing.
+Holt, D.H., 1997. A comparative study of values among Chinese and US entrepreneurs: Pragmatic convergence between contrasting cultures. J. Bus. Ventur. 12 (6), 
+483–505.
+Hook, J.L., 2010. Gender inequality in the welfare state: Sex segregation in housework, 1965–2003. Am. J. Sociol. 115 (5), 1480–1523.
+Huber, G.A., Malhotra, N., 2017. Political homophily in social relationships: Evidence from online dating behavior. J. Polit. 79 (1), 269–283.
+Hughes, K.D., Jennings, J.E., 2020. A legacy of attention to embeddedness in gendered institutions: Reflections on a key contribution of women’s entrepreneurship 
+research. Int. J. Gend. Entrep. 12 (1), 53–76.
+Ivanycheva, D., Schulze, W.S., Lundmark, E., Chirico, F., 2024. Lifestyle entrepreneurship: Literature review and future research agenda. J. Manag. Stud. 61 (5), 
+2251–2286.
+Jennings, J.E., Brush, C.G., 2013. Research on women entrepreneurs: challenges to (and from) the broader entrepreneurship literature? Acad. Manag. Ann. 7 (1), 
+663–715.
+Jennings, J.E., McDougald, M.S., 2007. Work-family interface experiences and coping strategies: Implications for entrepreneurship research and practice. Acad. 
+Manag. Rev. 32 (3), 747–760.
+Jennings, J.E., Tonoyan, V., 2022. Research on gender stereotyping and entrepreneurship: Suggestions for some paths worth pursuing. Entrep. Res. J. 12 (3), 187–212.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+18 
+
+===== PAGE 19 =====
+Jennings, J.E., Breitkreuz, R.S., James, A.E., 2013. When family members are also business owners: Is entrepreneurship good for families? Fam. Relat. 62 (3), 
+472–489.
+Johnson, S.K., Sitzmann, T., Nguyen, A.T., 2014. Don’t hate me because I’m beautiful: Acknowledging appearance mitigates the “beauty is beastly” effect. Organ. 
+Behav. Hum. Decis. Process. 125 (2), 184–192.
+Jurik, N.C., 1998. Getting away and getting by: The experiences of self-employed homeworkers. Work. Occup. 25 (1), 7–35.
+Kalmijn, M., 1994. Assortative mating by cultural and economic occupational status. Am. J. Sociol. 100 (2), 422–452.
+Kalmijn, M., 1998. Intermarriage and homogamy: Causes, patterns, trends. Annu. Rev. Sociol. 24 (1), 395–421.
+Kanze, D., Huang, L., Conley, M.A., Higgins, E.T., 2018. We ask men to win and women not to lose: Closing the gender gap in startup funding. Acad. Manag. J. 61 (2), 
+586–614.
+Kanze, D., Conley, M.A., Okimoto, T.G., Phillips, D.J., Merluzzi, J., 2020. Evidence that investors penalize female founders for lack of industry fit. Sci. Adv. 6 (48), 
+eabd7664.
+Kenrick, D.T., Sadalla, E.K., Groth, G., Trost, M.R., 1990. Evolution, traits, and the stages of human courtship: Qualifying the parental investment model. J. Pers. 58 
+(1), 97–116.
+Kerckhoff, A.C., Davis, K.E., 1962. Value consensus and need complementarity in mate selection. Am. Sociol. Rev. 295–303.
+Knafo, A., Sagiv, L., 2004. Values and work environment: Mapping 32 occupations. Eur. J. Psychol. Educ. 19 (3), 255–273.
+Kohler, U., Karlson, K.B., Holm, A., 2011. Comparing coefficients of nested nonlinear probability models. Stata J. 11 (3), 420–438.
+Kohn, M., 1989. Class and conformity: A study in values. University of Chicago Press.
+Kohn, M.L., Schooler, C., 1969. Class, occupation, and orientation. Am. Sociol. Rev. 659–678.
+Koo, A., Hui, B.P., Pun, N., 2020. Gender ideologies of youth in post-socialist China: Their gender-role attitudes, antecedents, and socio-psychological impacts. 
+Chinese Sociological Review 52 (5), 487–514.
+Langowitz, N., Minniti, M., 2007. The entrepreneurial propensity of women. Entrepreneurship Theory and Practice 31 (3), 341–364.
+Lee, S., Niederle, M., 2015. Propose with a rose? Signaling in internet dating markets. Exp. Econ. 18, 731–755.
+Lewis, K., 2016. Preferences in the early stages of mate choice. Social Forces 95 (1), 283–320.
+Li, L., Fan, J., Qiu, L., Li, C., Han, X., Liu, M., Zhao, S., Wang, Y., 2024. Prevalence and factors associated with job burnout among nurses in China: A cross-sectional 
+study. Nursing Open 11 (6), e2211.
+Li, W., Tong, D., 2023. The benefits of having an entrepreneur-mother: Influence of mother’s entrepreneurial status on human capital formation among children. 
+J. Bus. Ventur. 38 (6), 106329.
+Lim, Y., Suh, C.S., 2019. Where is my partner? The role of gender in the formation of entrepreneurial businesses. Small Bus. Econ. 52, 131–151.
+Liu, Y.L., Park, H.D., Velamuri, S.R., 2024. How different institutional logics affect the female CEO gender effect on IPO underpricing in China. Entrepreneurship 
+Theory and Practice 48 (2), 451–477.
+Loscocco, K., Bird, S.R., 2012. Gendered paths: Why women lag behind men in small business success. Work. Occup. 39 (2), 183–219.
+Lynch, J.G., 1982. On the external validity of experiments in consumer research. J. Consum. Res. 9 (3), 225–239.
+Lynch, J.G., 1983. The role of external validity in theoretical research. J. Consum. Res. 10 (1), 109–111.
+Mahanti, K., Bhatia, N., Rana, S., 2025. Redefining copreneurs: a four decadal review adopting computer aided text analysis. Int. Entrep. Manag. J. 21 (6), 1–40.
+Mathias, B.D., Wang, S., 2023. Not so silent partners: Exploring the interconnected roles of entrepreneurs and their spouses. J. Bus. Ventur. 38 (4), 106312.
+McClintock, E.A., 2020. Occupational sex composition and marriage: The romantic cost of gender-atypical jobs. J. Marriage Fam. 82 (3), 911–933.
+McPherson, M., Smith-Lovin, L., Cook, J.M., 2001. Birds of a feather: Homophily in social networks. Annu. Rev. Sociol. 27 (1), 415–444.
+Mortimer, J.T., 1976. Social class, work and the family: Some implications of the father’s occupation for familial relationships and sons’ career decisions. J. Marriage 
+Fam. 241–256.
+Mostaghel, R., Oghazi, P., Parida, V., Sohrabpour, V., 2022. Digitalization driven retail business model innovation: Evaluation of past and avenues for future research 
+trends. J. Bus. Res. 146, 134–145.
+Muravyev, A., Talavera, O., Sch¨afer, D., 2009. Entrepreneurs’ gender and financial constraints: Evidence from international data. J. Comp. Econ. 37 (2), 270–286.
+Murstein, B.I., 1970. Stimulus. Value. Role: A theory of marital choice. J. Marriage Fam. 465–481.
+Noseleit, F., 2014. Female self-employment and children. Small Bus. Econ. 43 (3), 549–569.
+Okimoto, T.G., Brescoll, V.L., 2010. The price of power: Power seeking and backlash against female politicians. Personal. Soc. Psychol. Bull. 36 (7), 923–936.
+O’Neill, A., Dias, A., Patuleia, M., Pereira, L., 2022. Financial objectives and satisfaction with life: A mixed-method study in surf lifestyle entrepreneurs. Sociol. Sci. 11, 
+555.
+Ong, D., 2016. Education and income attraction: an online dating field experiment. Appl. Econ. 48 (19), 1816–1830.
+Ong, D., Wang, J., 2015. Income attraction: An online dating field experiment. J. Econ. Behav. Organ. 111, 13–22.
+Oppenheimer, V.K., 1988. A theory of marriage timing. Am. J. Sociol. 94 (3), 563–591.
+Parasuraman, S., Simmers, C.A., 2001. Type of employment, work–family conflict and well-being: a comparative study. J. Organ. Behav. 22 (5), 551–568.
+Parker, S.C., 2008. Entrepreneurship among married couples in the United States: A simultaneous probit approach. Labour Econ. 15 (3), 459–481.
+Patrick, C., Stephens, H., Weinstein, A., 2016. Where are all the self-employed women? Push and pull factors influencing female labor market decisions. Small Bus. 
+Econ. 46, 365–390.
+Poczter, S., Shapsis, M., 2018. Gender disparity in angel financing. Small Bus. Econ. 51, 31–55.
+Powell, G.N., Butterfield, D.A., Jiang, X., 2021. The “good manager” over five decades: toward an androgynous profile? Gender in Management: An International 
+Journal 36 (6), 714–730.
+Qian, Y., Qian, Z., 2017. Assortative mating by education and hukou in Shanghai. Chinese Sociological Review 49 (3), 239–262.
+Qian, Y., Shen, Y., Cai, M., 2022. Gendered age preferences for potential partners: a mixed-methods study among online daters in Shanghai. Chinese Sociological 
+Review 54 (3), 304–331.
+Raile, A.N., Kwapisz, A., Bratton, V.K., Leary, M., Aytes, K., Black, L.J., Bryant, S.E., 2024. Business as usual is not working for women in business schools: Student 
+perceptions of business people and entrepreneurs. Gend. Work. Organ. 31 (5), 2095–2112.
+Raley, S., Bianchi, S.M., Wang, W., 2012. When do fathers care? Mothers’ economic contribution and fathers’ involvement in child care. Am. J. Sociol. 117 (5), 
+1422–1459.
+Randerson, K., Bettinelli, C., Fayolle, A., Anderson, A., 2015. Family entrepreneurship as a field of research: Exploring its contours and contents. Journal of Family 
+Business Strategy 6 (3), 143–154.
+Regan, P., 2011. Close relationships. Routledge.
+Regan, P.C., Levin, L., Sprecher, S., Christopher, F.S., Gate, R., 2000. Partner preferences: What characteristics do men and women desire in their short-term sexual 
+and long-term romantic partners? J. Psychol. Hum. Sex. 12 (3), 1–21.
+Rivera, L.A., 2012. Hiring as cultural matching: The case of elite professional service firms. Am. Sociol. Rev. 77 (6), 999–1022.
+Roncolato, L., Roomets, A., 2020. Who will change the “baby?” Examining the power of gender in an experimental setting. Rev. Econ. Househ. 18 (3), 823–852.
+Sagiv, L., Roccas, S., Cieciuch, J., Schwartz, S.H., 2017. Personal values in human life. Nat. Hum. Behav. 1 (9), 630–639.
+Schindehutte, M., Morris, M., Brennan, C., 2003. Entrepreneurs and motherhood: Impacts on their children in South Africa and the United States. J. Small Bus. Manag. 
+41 (1), 94–107.
+Schwartz, C.R., 2013. Trends and variation in assortative mating: Causes and consequences. Annu. Rev. Sociol. 39 (1), 451–470.
+Schwartz, C.R., Wang, Y., Mare, R.D., 2021. Opportunity and change in occupational assortative mating. Soc. Sci. Res. 99, 102600.
+Semykina, A., 2018. Self-employment among women: Do children matter more than we previously thought? J. Appl. Econ. 33 (3), 416–434.
+Shelton, L.M., 2006. Female entrepreneurs, work–family conflict, and venture performance: New insights into the work–family interface. J. Small Bus. Manag. 44 (2), 
+285–297.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+19 
+
+===== PAGE 20 =====
+Shinar, E.H., 1975. Sexual stereotypes of occupations. J. Vocat. Behav. 7 (1), 99–111.
+Song, J., Li, L., 2023. Empowered in business or penalized in marriage: experiences of single female entrepreneurs in China. Work Employ. Soc. 37 (1), 3–19.
+Sprecher, S., 2009. Relationship initiation and formation on the Internet. Marriage Fam. Rev. 45 (6–8), 761–782.
+Stewart, W.H., Roth, P.L., 2001. Risk propensity differences between entrepreneurs and managers: A meta-analytic review. J. Appl. Psychol. 86 (1), 145–153.
+Tan, J., 2001. Innovation and risk-taking in a transitional economy: A comparative study of Chinese managers and entrepreneurs. J. Bus. Ventur. 16 (4), 359–376.
+Th´ebaud, S., 2010. Gender and entrepreneurship as a career choice: do self-assessments of ability matter? Soc. Psychol. Q. 73 (3), 288–304.
+Th´ebaud, S., 2015. Business as plan B: Institutional foundations of gender inequality in entrepreneurship across 24 industrialized countries. Adm. Sci. Q. 60 (4), 
+671–711.
+Tonoyan, V., Strohmeyer, R., 2021. Gender role (in-) congruity and resource-provider gender biases: a conceptual model. Int. J. Gend. Entrep. 13 (3), 225–242.
+Tonoyan, V., Budig, M., Strohmeyer, R., 2010. Exploring the heterogeneity of women’s entrepreneurship: the impact of family structure and family policies in Europe 
+and the US. In: Brush, C., de Bruin, A., Gatewood, E., Henry, C. (Eds.), Women entrepreneurs and the global environment for growth. Edward Elgar Publishing, 
+pp. 137–159.
+Tonoyan, V., Strohmeyer, R., Jennings, J.E., 2020. Gender gaps in perceived start-up ease: Implications of sex-based labor market segregation for entrepreneurship 
+across 22 European countries. Adm. Sci. Q. 65 (1), 181–225.
+Tonoyan, V., Strohmeyer, R., Jennings, J., 2025. Working for Jessica or Michael? Implications of gender stereotypes for job application intentions at technology 
+startups. Strateg. Entrep. J. 19 (2), 256–282.
+Wells, G.L., Windschitl, P.D., 1999. Stimulus sampling and social psychological experimentation. Personal. Soc. Psychol. Bull. 25 (9), 1115–1125.
+White, M.J., Kruczek, T.A., Brown, M.T., White, G.B., 1989. Occupational sex stereotypes among college students. J. Vocat. Behav. 34 (3), 289–298.
+Xiao, S., Qian, Y., 2020. Mate selection among online daters in Shanghai: Why does education matter? Chinese Journal of Sociology 6 (4), 521–546.
+Younkin, P., Kuppuswamy, V., 2019. Discounted: The effect of founder race on the price of new products. J. Bus. Ventur. 34 (2), 389–412.
+Zhang, H., Zou, B., 2023. A marriage-market perspective on risk-taking and career choices. Eur. Econ. Rev. 152, 104379.
+Zhao, H., Seibert, S.E., Lumpkin, G.T., 2010. The relationship of personality to entrepreneurial intentions and performance: A meta-analytic review. J. Manag. 36 (2), 
+381–404.
+D. Tong et al.                                                                                                                                                                                                           
+Journal of Business Venturing 41 (2026) 106608 
+20 

@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# slide screenshots (tools/shot.mjs)
+/tools/.shots/
