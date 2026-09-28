@@ -60,7 +60,14 @@ npm run build && npm run start   # 발표용(프로덕션) → http://localhost:
   - `npm run shots` / `npm run shots:safari` — 전체를 마지막 빌드 단계로 캡처하고 모아보기 이미지 생성. 결과는 `tools/.shots/`
   - `npm run test:ui` — 인터랙션 19개 항목을 Chrome과 WebKit에서 테스트
   - Playwright 1.63.0(WebKit 2359 캐시와 버전을 맞춤)을 쓰고, Chrome은 설치된 Google Chrome을 쓴다.
-- **버전 관리**: git 브랜치 `presentation`에 커밋되어 있다(`main`에는 create-next-app 초기 커밋만 있다). 수정을 마칠 때마다 이 브랜치에 커밋해 두면 되돌리기 쉽다.
+- **버전 관리**: 로컬 작업 브랜치는 `presentation`이다(로컬 `main`에는 create-next-app 초기 커밋만 있다). 수정을 마칠 때마다 이 브랜치에 커밋한다.
+  - 원격 `origin` = https://github.com/nadrsunflower-ux/romanticpenalty (**공개 저장소**). 로컬 `presentation`을 원격 `main`으로 올린다.
+  - 푸시: `git push origin presentation:main`. 브랜치 이름이 달라 `git push`만 쓰면 거절된다.
+  - 삽화 원본 PNG 때문에 HTTPS 푸시가 HTTP 400으로 끊길 수 있어서, 이 저장소에 `http.postBuffer`를 500MB로 설정해 두었다.
+  - `docs/source/원문_영어.txt`는 논문 원문이다. 이 논문은 CC BY 4.0 오픈 액세스라 공개 저장소에 두어도 된다.
+- **배포**: Vercel 프로젝트 `romanticpenalty`(팀 `sunflowers-projects-9c1bed07`) → **https://romanticpenalty.vercel.app**
+  - GitHub 저장소와 연결되어 있어 원격 `main`에 푸시하면 자동으로 프로덕션 배포된다. 수동 배포는 `vercel --prod`.
+  - 배포본 확인: `node tools/shot.mjs final --base https://romanticpenalty.vercel.app [--browser webkit]`, `node tools/interact.mjs chrome https://romanticpenalty.vercel.app`
 - **Safari 대비**: `package.json`의 `browserslist`에 Safari ≥ 15를 넣어 두었다. 사용자 전역 규칙인 "Safari 에러" 대응을 선제 적용한 것이다.
 
 ## 4. 슬라이드 번호표 (현재 24장)

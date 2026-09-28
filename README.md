@@ -3,6 +3,8 @@
 Tong, Li & Park (2026). *A romantic penalty? Female entrepreneurship and relationship initiation in online dating.* Journal of Business Venturing, 41, 106608.
 발표: 첨단기술비즈니스학과 4기 유선화
 
+배포: https://romanticpenalty.vercel.app
+
 Next.js 16 · Tailwind CSS v4 · shadcn/ui · framer-motion으로 만든 16:9 슬라이드형 웹사이트 (총 24장).
 
 ## 실행
