@@ -51,7 +51,7 @@ function EvidenceCard({
       <span className="grid size-[52px] shrink-0 place-items-center rounded-[14px] bg-paper-2 text-ink-2">
         <Icon className="size-[26px]" strokeWidth={1.8} />
       </span>
-      <div className="flex min-w-0 flex-col">
+      <div className="flex min-w-0 flex-1 flex-col">
         <Chip variant="outline" className="self-start">
           {tag}
         </Chip>
@@ -83,8 +83,8 @@ function Caveats() {
       <div className="mt-4 grid grid-cols-[1fr_88px_1fr] items-stretch">
         <Reveal>
           <EvidenceCard tag="실험 2 · 현장실험" icon={Stethoscope}>
-            간호사도 불이익을 받았다 → <strong className="font-semibold text-tone-ink">‘바빠 보이는 게 문제’</strong>라는
-            쪽을 가리켰다.
+            간호사도 불이익을 받았다
+            <br />→ <strong className="font-semibold text-tone-ink">‘바빠 보이는 게 문제’</strong>라는 쪽을 가리켰다.
           </EvidenceCard>
         </Reveal>
         <Reveal kind="pop" className="flex flex-col items-center justify-center gap-1.5">
@@ -95,8 +95,9 @@ function Caveats() {
         </Reveal>
         <Reveal>
           <EvidenceCard tag="실험 3 · 설문" icon={ClipboardList}>
-            그런데 <strong className="font-semibold text-tone-ink">‘바빠 보인다’는 인상 자체</strong>는 답장 의향과
-            이어지지 않았다.
+            그런데 <strong className="font-semibold text-tone-ink">‘바빠 보인다’는 인상 자체</strong>는
+            <br />
+            답장 의향과 이어지지 않았다.
           </EvidenceCard>
         </Reveal>
       </div>
@@ -122,7 +123,7 @@ function Caveats() {
           <span className="text-[20px] text-ink-3">
             ‘왜’에 대한 설명은 확정된 사실이 아니라{" "}
             <strong className="font-semibold text-ink-2">“그럴 가능성이 있다”</strong>{" "}
-            <span className="font-text-serif italic">(suggestive)</span> 수준 — 이유는 셋
+            <span className="font-text-serif italic">(suggestive)</span> 수준
           </span>
         </div>
         <div className="mt-4 grid grid-cols-3 gap-5">

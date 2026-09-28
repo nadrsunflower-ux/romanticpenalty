@@ -69,7 +69,7 @@ function AttitudeWedge() {
         </span>
         <span className="pl-2 font-semibold text-ink-2">점수 높음</span>
       </div>
-      <p className="mt-1 text-center text-[19px] text-ink-3">성역할 태도 점수 (개념도 — 크기는 수치가 아님)</p>
+      <p className="mt-1 text-center text-[19px] text-ink-3">성역할 태도 점수</p>
     </div>
   );
 }
@@ -143,15 +143,15 @@ function Voices() {
           <div className="mt-auto flex flex-col gap-2.5 border-t border-line pt-5">
             <p className="flex gap-3 text-[20px] leading-[1.55] text-ink-3">
               <span className="mt-[13px] size-[6px] shrink-0 rounded-full bg-ink-3/60" />
-              <span>
-                교사에게 쓰인 경우는 타고난 성격이 아니라 <strong className="font-semibold text-ink-2">교실에서 아이들을
-                이끄는 역할</strong> 때문인 경우가 많았다고 연구진은 덧붙인다.
+              <span className="whitespace-nowrap">
+                교사에게 쓰인 경우는 <strong className="font-semibold text-ink-2">교실에서 아이들을 이끄는 역할</strong>{" "}
+                때문인 경우가 많았다.
               </span>
             </p>
             <p className="flex gap-3 text-[20px] leading-[1.55] text-ink-3">
               <Shuffle className="mt-[5px] size-[19px] shrink-0 text-ink-3" strokeWidth={2.2} />
               <span>
-                얼굴 사진 13장은 무작위로 배정 → 이 차이를 만든 것 역시 <strong className="font-semibold text-ink-2">직업 한 줄</strong>이다.
+                얼굴 사진 13장은 무작위로 배정 → 이 차이를 만든 것 역시 <strong className="font-semibold text-ink-2">직업</strong>이다.
               </span>
             </p>
           </div>

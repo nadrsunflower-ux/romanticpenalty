@@ -3,7 +3,7 @@
 import type { ReactNode } from "react";
 import { ArrowDown, Briefcase, Rocket } from "lucide-react";
 import type { SlideDef } from "@/components/deck/types";
-import { Callout, Eyebrow, Mark, Panel, Reveal, SlideFrame, Step } from "@/components/slide/primitives";
+import { Callout, Eyebrow, Mark, Panel, Reveal, SlideFrame } from "@/components/slide/primitives";
 import { Table, TableBody, TableCell, TableRow } from "@/components/ui/table";
 import { ExpKicker } from "./_exp-kicker";
 
@@ -138,13 +138,14 @@ function Exp1() {
           </Panel>
         </Reveal>
 
-        <Step at={1} className="mt-auto">
+        {/* 빌드·진입 애니메이션 없이 처음부터 보인다 */}
+        <div className="mt-auto">
           <Callout title="왜 남성 프로필도 만들었나?">
             여성 창업가만 조사하면 “<strong className="font-semibold text-ink">창업가라는 직업 자체가 인기가 없나?</strong>”라는
             반론이 가능하다. 남성 창업가와 비교해야 <strong className="font-semibold text-tone-ink">여성에게만 생기는 일</strong>
             인지 알 수 있다.
           </Callout>
-        </Step>
+        </div>
       </div>
     </SlideFrame>
   );
@@ -154,6 +155,5 @@ export const exp1Slide: SlideDef = {
   id: "method-exp1",
   section: "method",
   title: "실험 1: 창업가 vs 회사 관리자",
-  steps: 1,
   Component: Exp1,
 };

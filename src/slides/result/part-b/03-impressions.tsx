@@ -94,9 +94,8 @@ function Impressions() {
                 <TableHead className="h-auto px-8 py-3.5 text-[19px] font-semibold text-ink-3">무엇을 물었나</TableHead>
                 <TableHead className="h-auto px-4 py-3.5 text-[19px] font-semibold text-ink-3">교사와 견준 창업가</TableHead>
                 <TableHead className="h-auto px-4 py-3.5 text-[19px] font-semibold text-ink-3">
-                  <Step at={1} className="flex items-baseline gap-3">
+                  <Step at={1}>
                     <span className="text-tone-ink">이 인상이 답장 의향으로 이어졌나</span>
-                    <span className="text-[19px] font-medium text-ink-3">막대 = 답장 의향 차이 중 이 인상을 거친 몫</span>
                   </Step>
                 </TableHead>
               </TableRow>

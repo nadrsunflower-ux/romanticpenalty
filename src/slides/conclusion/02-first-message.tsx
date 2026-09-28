@@ -15,9 +15,13 @@ import {
 } from "@/components/slide/primitives";
 import { cn } from "@/lib/utils";
 
-/* 셋째의 단서 — 원문 그대로 */
+/* 편견 칼럼의 단서 — 원문 그대로 */
 const HEDGES: ReactNode[] = [
-  "답장을 안 할 이유는 얼마든지 있고, 원래 열에 일곱 이상은 어느 쪽에도 답하지 않았다.",
+  <>
+    답장을 안 할 이유는 얼마든지 있고,
+    <br />
+    원래 열에 일곱 이상은 어느 쪽에도 답하지 않았다.
+  </>,
   <>
     증거가 되는 것은{" "}
     <strong className="font-semibold text-ink">수백 건을 모았을 때 두 집단 사이에 남는 차이</strong>뿐이다.
@@ -25,16 +29,12 @@ const HEDGES: ReactNode[] = [
   "본인도 모르는 무의식이었는지까지는 이 연구가 확인하지 않았다.",
 ];
 
-/** 칼럼 머리 — 번호 + "둘째 · …" */
-function ColumnHead({ n, order, title }: { n: number; order: string; title: string }) {
+/** 칼럼 머리 — 번호 + 제목 */
+function ColumnHead({ n, title }: { n: number; title: string }) {
   return (
     <div className="flex h-[44px] items-center gap-3.5">
       <NumberDot n={n} solid />
-      <p className="text-[27px] font-bold tracking-[-0.03em] text-ink">
-        <span className="text-tone-ink">{order}</span>
-        <span className="mx-2.5 text-ink-3/60">·</span>
-        {title}
-      </p>
+      <p className="text-[27px] font-bold tracking-[-0.03em] text-ink">{title}</p>
     </div>
   );
 }
@@ -103,18 +103,18 @@ function FirstMessage() {
   return (
     <SlideFrame
       section="conclusion"
-      kicker="5.2 왜 중요한가 — 둘째·셋째"
+      kicker="5.2 왜 중요한가"
       title={
         <>
-          끌림도 편견도, <Mark>첫 메시지 단계</Mark>에서 이미 보일 수 있다
+          끌림도 편견도, <Mark>첫 단계</Mark>에서 이미 보일 수 있다
         </>
       }
       bodyClassName="grid grid-cols-[610px_1fr] gap-10"
     >
-      {/* ── 둘째 · 창업가 부부 ─────────────────────── */}
+      {/* ── 1 · 창업가 부부 ───────────────────────── */}
       <div className="flex h-full flex-col gap-4">
         <Reveal>
-          <ColumnHead n={2} order="둘째" title="창업가 부부가 왜 많을까" />
+          <ColumnHead n={1} title="창업가 부부가 왜 많을까" />
         </Reveal>
         <Reveal className="flex-1">
           <Panel className="flex h-full flex-col px-8 pt-7 pb-7">
@@ -125,7 +125,7 @@ function FirstMessage() {
 
             <div className="mt-6 flex flex-col gap-5">
               <TimeNode when="첫 메시지" focus tag="이 연구가 더한 가능성" line="down">
-                결혼하기 한참 전, 첫 메시지 단계에서 이미 서로 끌리는 것으로 보인다
+                결혼하기 한참 전, 첫 단계에서 이미 서로 끌리는 것으로 보인다
               </TimeNode>
               <TimeNode when="결혼 후" tag="지금까지의 설명" line="up">
                 결혼한 뒤 서로 지식과 영향을 주고받아서
@@ -139,10 +139,10 @@ function FirstMessage() {
         </Reveal>
       </div>
 
-      {/* ── 셋째 · 편견의 작동 방식 (→ 1) ─────────────── */}
+      {/* ── 2 · 편견의 작동 방식 (→ 1) ─────────────── */}
       <div className="flex h-full flex-col gap-4">
         <Step at={1}>
-          <ColumnHead n={3} order="셋째" title="편견은 어떻게 작동하나" />
+          <ColumnHead n={2} title="편견은 어떻게 작동하나" />
         </Step>
         <Step at={1} className="flex-1">
           <Panel className="flex h-full flex-col justify-center px-8 py-7">
@@ -178,7 +178,7 @@ function FirstMessage() {
               {HEDGES.map((h, i) => (
                 <li key={i} className="flex gap-2.5">
                   <span className="mt-[14px] size-[5px] shrink-0 rounded-full bg-tone/70" />
-                  <span>{h}</span>
+                  <span className="flex-1">{h}</span>
                 </li>
               ))}
             </ul>
@@ -192,7 +192,7 @@ function FirstMessage() {
 export const firstMessageSlide: SlideDef = {
   id: "conclusion-first-message",
   section: "conclusion",
-  title: "왜 중요한가 ② 창업가 부부 · 조용한 편견",
+  title: "왜 중요한가 — 창업가 부부 · 조용한 편견",
   steps: 2,
   Component: FirstMessage,
 };

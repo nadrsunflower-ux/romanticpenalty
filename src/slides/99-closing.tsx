@@ -1,7 +1,7 @@
 "use client";
 
 import type { SlideDef } from "@/components/deck/types";
-import { Mark, Reveal } from "@/components/slide/primitives";
+import { Reveal } from "@/components/slide/primitives";
 
 const SWATCHES = ["bg-hl-red", "bg-hl-yellow", "bg-hl-green", "bg-hl-blue", "bg-hl-purple"];
 
@@ -15,11 +15,11 @@ function Closing() {
       </Reveal>
       <Reveal className="mt-12">
         <h2 className="font-serif text-[148px] leading-none tracking-[-0.02em] text-ink">
-          Thank <Mark tone="red">you</Mark>
+          Thank you
         </h2>
       </Reveal>
       <Reveal className="mt-8">
-        <p className="text-[30px] font-semibold tracking-[-0.03em] text-ink-2">감사합니다 · 질문과 토론</p>
+        <p className="text-[30px] font-semibold tracking-[-0.03em] text-ink-2">감사합니다</p>
       </Reveal>
       <Reveal kind="fade" className="mt-20 text-center">
         <p className="font-serif text-[22px] text-ink-3 italic">

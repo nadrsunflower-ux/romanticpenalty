@@ -4,12 +4,10 @@ import type { LucideIcon } from "lucide-react";
 import {
   ArrowDown,
   Flower2,
-  MapPin,
   Mars,
   MessageCircle,
   Rocket,
   Scale,
-  ScanSearch,
   Venus,
 } from "lucide-react";
 import type { SlideDef } from "@/components/deck/types";
@@ -60,34 +58,11 @@ function Findings() {
           <Mark>연애의 첫 문턱</Mark>에서, 여성 창업가는 불이익을 받았다
         </>
       }
-      bodyClassName="flex flex-col gap-[14px]"
+      bodyClassName="flex flex-col gap-5"
     >
-      {/* 범위 — 이걸 빼고 읽으면 전부 과장 */}
-      <Reveal>
-        <div className="flex h-[54px] items-center gap-5 rounded-[16px] bg-surface px-6 ring-1 ring-line">
-          <span className="flex items-center gap-2.5 text-[19px] font-semibold text-tone-ink">
-            <ScanSearch className="size-[22px]" strokeWidth={2} />
-            읽기 전에 · 범위
-          </span>
-          <span className="h-6 w-px bg-line" />
-          <span className="flex items-center gap-2 text-[21px] font-medium text-ink">
-            <MapPin className="size-[20px] text-ink-3" strokeWidth={2} />
-            중국의 한 데이팅 사이트
-          </span>
-          <span className="text-ink-3">·</span>
-          <span className="flex items-center gap-2 text-[21px] font-medium text-ink">
-            <MessageCircle className="size-[20px] text-ink-3" strokeWidth={2} />
-            첫 메시지에 답장이 오는지
-          </span>
-          <span className="ml-auto text-[20px] text-ink-2">
-            이 범위를 빼고 읽으면 <strong className="font-semibold text-tone-ink">전부 과장</strong>이 된다
-          </span>
-        </div>
-      </Reveal>
-
       {/* ① 핵심 결과 */}
       <Reveal>
-        <div className="flex items-center gap-6 rounded-[20px] bg-tone px-8 py-[18px] text-white shadow-[0_22px_40px_-24px_var(--tone)]">
+        <div className="flex items-center gap-6 rounded-[20px] bg-tone px-8 py-6 text-white shadow-[0_22px_40px_-24px_var(--tone)]">
           <span className="inline-grid size-[44px] shrink-0 place-items-center rounded-full bg-white/20 font-serif text-[24px] leading-none italic">
             1
           </span>
@@ -111,18 +86,18 @@ function Findings() {
         {BOUNDARIES.map((b) => (
           <div
             key={b.n}
-            className="flex flex-col rounded-[20px] bg-surface px-6 pt-5 pb-5 shadow-[0_1px_0_rgba(23,22,28,0.04),0_12px_32px_-18px_rgba(23,22,28,0.18)] ring-1 ring-line"
+            className="flex flex-col rounded-[20px] bg-surface px-6 pt-6 pb-5 shadow-[0_1px_0_rgba(23,22,28,0.04),0_12px_32px_-18px_rgba(23,22,28,0.18)] ring-1 ring-line"
           >
             <div className="flex items-center gap-3.5">
               <NumberDot n={b.n} className="size-[38px] text-[21px]" />
               <p className="text-[24px] font-bold tracking-[-0.03em] text-ink">{b.title}</p>
             </div>
-            <div className="mt-4 flex flex-col gap-2">
+            <div className="mt-5 flex flex-col gap-2.5">
               {b.cells.map((c) => (
                 <div
                   key={c.label}
                   className={cn(
-                    "flex h-[52px] items-center gap-2.5 rounded-[13px] px-4",
+                    "flex h-[58px] items-center gap-2.5 rounded-[13px] px-4",
                     c.focus ? "bg-tone-soft/45 ring-1 ring-tone/25" : "bg-paper-2/80",
                   )}
                 >
@@ -151,7 +126,7 @@ function Findings() {
 
       {/* ⑤ 이유 — 잠정적 해석 (→ 2) */}
       <Step at={2}>
-        <div className="flex items-center gap-6 rounded-[20px] border-2 border-dashed border-tone/35 bg-tone-soft/25 px-8 py-4">
+        <div className="flex items-center gap-6 rounded-[20px] border-2 border-dashed border-tone/35 bg-tone-soft/25 px-8 py-5">
           <NumberDot n={5} />
           <p className="w-[300px] shrink-0 text-[24px] leading-[1.35] font-bold tracking-[-0.03em] text-ink">
             이유는 능력 의심이
@@ -168,7 +143,7 @@ function Findings() {
             </span>
           </div>
           <Chip variant="outline" className="shrink-0 border-tone/40 text-tone-ink">
-            잠정적 해석 · 논문이 확정한 것 아님
+            잠정적 해석
           </Chip>
         </div>
       </Step>

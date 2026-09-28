@@ -29,6 +29,7 @@
 - 폰트: 한글·본문 = Pretendard(`font-sans`, npm 패키지로 로컬 번들), 영문 장식·숫자 = Instrument Serif(`font-serif`), 영문 본문 세리프 = Newsreader(`font-text-serif`, 초록 슬라이드).
 - 캔버스에 `word-break: keep-all`이 걸려 있어 한국어 단어가 중간에서 끊기지 않는다.
 - **줄바꿈 지정**은 `<br />`로 한다. **"한 줄로"** 요청은 `whitespace-nowrap`을 쓰고, 칸이 좁으면 폭을 다시 배분한다(글자를 19px 아래로 줄이지 않는다).
+- `<br />`을 넣는 글이 flex 항목 안에 있고 `text-pretty`가 걸려 있으면 WebKit(Safari)이 줄을 한 번 더 나눌 수 있다. 글 칸에 `flex-1`을 주고 `--browser webkit` 캡처로 줄 수를 확인한다. 꼭 붙어 있어야 하는 굵은 구절은 `whitespace-nowrap`으로 묶는다.
 
 ## 3. 색
 

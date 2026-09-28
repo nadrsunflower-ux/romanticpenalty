@@ -25,7 +25,7 @@ function Hypotheses() {
           불이익은 있을 것, 단 상대도 창업가라면 줄어들 것
         </>
       }
-      bodyClassName="grid grid-cols-[1fr_520px] gap-10"
+      bodyClassName="grid grid-cols-[1fr_478px] gap-9"
     >
       {/* ── 왼쪽: 두 가지 예상 ─────────────────────── */}
       <div className="flex flex-col">
@@ -43,17 +43,13 @@ function Hypotheses() {
 
         <Reveal className="mt-7">
           <HypCard n="1">
-            여성 창업가는 연애를 시작할 때
-            <br />
-            <Em className="font-bold">불이익</Em>을 받을 것이다
+            여성 창업가는 연애를 시작할 때 <Em className="font-bold">불이익</Em>을 받을 것이다.
           </HypCard>
         </Reveal>
 
         <Step at={1} className="mt-7">
           <HypCard n="2" focus>
-            단, 상대 남성이 <Em className="font-bold">본인도 창업가</Em>라면
-            <br />
-            그 불이익이 <Em className="font-bold">줄어들</Em> 것이다
+            단, 상대 남성이 <Em className="font-bold">본인도 창업가</Em>라면 그 불이익이 <Em className="font-bold">줄어들</Em> 것이다.
           </HypCard>
         </Step>
 
@@ -61,7 +57,7 @@ function Hypotheses() {
 
       {/* ── 오른쪽: 예상 2의 근거 (단계 2) ─────────────── */}
       <Step at={2} className="h-full">
-        <Panel className="flex h-full flex-col px-9 pt-8 pb-8">
+        <Panel className="flex h-full flex-col px-8 pt-8 pb-8">
           <Eyebrow>예상 2는 왜 나왔을까?</Eyebrow>
           <p className="mt-3 text-[28px] leading-[1.35] font-bold tracking-[-0.03em] text-balance text-ink">
             사람들은 자기와 비슷한 사람에게 끌리는 경향이 있다
@@ -86,7 +82,7 @@ function Hypotheses() {
           <div className="mt-auto border-t border-line pt-6">
             <p className="text-[22px] leading-[1.55] text-pretty text-ink-2">
               <strong className="font-semibold text-ink">창업가 남성</strong>이라면 창업가 여성의{" "}
-              <strong className="font-semibold text-ink">바쁨과 야심</strong>을 흠이 아니라 공통점으로 볼 수 있다.
+              <strong className="font-semibold whitespace-nowrap text-ink">바쁨과 야심</strong>을 흠이 아니라 공통점으로 볼 수 있다.
             </p>
             <div className="mt-4 flex items-center justify-center gap-4 rounded-[16px] bg-tone-soft/35 py-3.5">
               <span className="relative inline-flex rounded-full bg-surface px-5 py-1 text-[24px] font-semibold text-ink-3 ring-1 ring-line">
@@ -121,16 +117,16 @@ function HypCard({ n, children, focus }: { n: string; children: ReactNode; focus
   return (
     <Panel
       className={cn(
-        "flex items-center gap-8 px-9 py-9",
+        "flex items-center gap-6 px-8 py-9",
         focus && "shadow-[0_28px_56px_-30px_var(--tone)] ring-2 ring-tone/55",
       )}
     >
-      <div className="flex w-[76px] shrink-0 flex-col items-center">
+      <div className="flex w-[64px] shrink-0 flex-col items-center">
         <span className="text-[19px] font-semibold text-ink-3">예상</span>
         <span className="font-serif text-[84px] leading-[0.95] text-tone italic">{n}</span>
       </div>
       <span className="h-[92px] w-px shrink-0 bg-line" />
-      <p className="text-[33px] leading-[1.42] font-bold tracking-[-0.03em] text-pretty text-ink">{children}</p>
+      <p className="text-[30px] leading-[1.42] font-bold tracking-[-0.03em] whitespace-nowrap text-ink">{children}</p>
     </Panel>
   );
 }

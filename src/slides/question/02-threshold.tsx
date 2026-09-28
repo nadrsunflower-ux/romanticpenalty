@@ -21,9 +21,8 @@ function Threshold() {
           여기서 막히면, 뒤의 모든 단계는 <Mark>시작조차 되지 않는다</Mark>
         </>
       }
-      lead="가족을 이루는 과정을 순서대로 늘어놓으면 이렇다."
     >
-      <div className="relative mx-auto mt-4 w-[1320px]">
+      <div className="relative mx-auto mt-[54px] w-[1320px]">
         {/* 기존 연구 — 오른쪽 끝 (단계 1) */}
         <Step at={1} className="absolute top-0 right-0 w-[500px]">
           <div className="flex flex-col items-center">
